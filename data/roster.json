@@ -764,9 +764,9 @@
    ],
    "release_count": 3,
    "cm_id": null,
-   "songstats_artist_id": null,
+   "songstats_artist_id": "fy627kan",
    "spotify_url": null,
-   "image_url": null,
+   "image_url": "img/artist_sonin.jpg",
    "verified": false
   },
   {
@@ -777,9 +777,9 @@
    ],
    "release_count": 2,
    "cm_id": null,
-   "songstats_artist_id": null,
+   "songstats_artist_id": "2us5o8wk",
    "spotify_url": null,
-   "image_url": null,
+   "image_url": "img/artist_divisionone.jpg",
    "verified": false
   }
  ]
