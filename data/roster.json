@@ -510,7 +510,7 @@
    "verified": true
   },
   {
-   "name": "Lørean",
+   "name": "L\u00f8rean",
    "label": "Enhanced Recordings",
    "labels": [
     "Enhanced Recordings"
@@ -523,7 +523,7 @@
    "verified": true
   },
   {
-   "name": "DJ CØSMIC DREAM",
+   "name": "DJ C\u00d8SMIC DREAM",
    "label": "Enhanced Progressive",
    "labels": [
     "Enhanced Progressive"
@@ -705,16 +705,16 @@
    "verified": true
   },
   {
-   "name": "mölly",
+   "name": "m\u00f6lly",
    "label": "Colorize",
    "labels": [
     "Colorize"
    ],
    "release_count": 6,
-   "cm_id": null,
-   "songstats_artist_id": null,
+   "cm_id": 476375,
+   "songstats_artist_id": "ejmbyfq4",
    "spotify_url": null,
-   "image_url": null,
+   "image_url": "img/artist_476375.jpg",
    "verified": false
   },
   {
@@ -757,7 +757,7 @@
    "verified": false
   },
   {
-   "name": "SØNIN",
+   "name": "S\u00d8NIN",
    "label": "Enhanced Progressive",
    "labels": [
     "Enhanced Progressive"
