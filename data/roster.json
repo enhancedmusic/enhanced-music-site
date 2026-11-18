@@ -1,6 +1,6 @@
 {
  "generated_at": "2026-11-18T20:58:26+00:00",
- "rule": "lead artist on >=2 distinct release dates in last 365 days; one label (most lead releases)",
+ "rule": "credited (lead, featured or remixer) on >=3 distinct releases across the five labels in the last 5 years; source: Songstats label catalogs (photos and IDs from Songstats); strays hidden via roster_hidden.json; pinned via roster_pinned.json",
  "artists": [
   {
    "name": "Audien",
