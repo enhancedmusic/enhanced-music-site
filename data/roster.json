@@ -29,6 +29,85 @@
    "verified": true
   },
   {
+   "name": "Ryan Lucian",
+   "label": "Enhanced Recordings",
+   "labels": [
+    "Enhanced Recordings"
+   ],
+   "release_count": 3,
+   "cm_id": null,
+   "songstats_artist_id": "gv02i1qk",
+   "spotify_url": null,
+   "image_url": "img/artist_ryanlucian.jpg",
+   "verified": true
+  },
+  {
+   "name": "HILYTE",
+   "label": "Enhanced Recordings",
+   "labels": [
+    "Enhanced Recordings"
+   ],
+   "release_count": 3,
+   "cm_id": null,
+   "songstats_artist_id": "o1fmrzdj",
+   "spotify_url": null,
+   "image_url": "img/artist_hilyte.jpg",
+   "verified": true
+  },
+  {
+   "name": "Hyperbits",
+   "label": "Enhanced Recordings",
+   "labels": [
+    "Enhanced Recordings"
+   ],
+   "release_count": 3,
+   "cm_id": null,
+   "songstats_artist_id": "a2czeyxk",
+   "spotify_url": null,
+   "image_url": "img/artist_hyperbits.jpg",
+   "verified": true
+  },
+  {
+   "name": "EMBRZ",
+   "label": "Colorize",
+   "labels": [
+    "Colorize"
+   ],
+   "release_count": 3,
+   "cm_id": null,
+   "songstats_artist_id": "logcuf7z",
+   "spotify_url": null,
+   "image_url": "img/artist_embrz.jpg",
+   "verified": true
+  },
+  {
+   "name": "Linney",
+   "label": "Enhanced Recordings",
+   "labels": [
+    "Enhanced Recordings"
+   ],
+   "release_count": 3,
+   "cm_id": null,
+   "songstats_artist_id": "roufctv5",
+   "spotify_url": null,
+   "image_url": "img/artist_linney.jpg",
+   "verified": true
+  },
+  {
+   "name": "MØØNE",
+   "label": "Colorize",
+   "labels": [
+    "Colorize",
+    "Enhanced Recordings"
+   ],
+   "release_count": 3,
+   "cm_id": null,
+   "songstats_artist_id": "e91qn8c3",
+   "spotify_url": null,
+   "image_url": "img/artist_moone.jpg",
+   "verified": true
+  },
+  {
    "name": "Icarus",
    "label": "Colorize",
    "labels": [
@@ -523,7 +602,7 @@
    "verified": true
   },
   {
-   "name": "L\u00f8rean",
+   "name": "Lørean",
    "label": "Enhanced Recordings",
    "labels": [
     "Enhanced Recordings"
@@ -536,7 +615,7 @@
    "verified": true
   },
   {
-   "name": "DJ C\u00d8SMIC DREAM",
+   "name": "DJ CØSMIC DREAM",
    "label": "Enhanced Progressive",
    "labels": [
     "Enhanced Progressive"
@@ -718,7 +797,7 @@
    "verified": true
   },
   {
-   "name": "m\u00f6lly",
+   "name": "mölly",
    "label": "Colorize",
    "labels": [
     "Colorize"
@@ -770,7 +849,7 @@
    "verified": false
   },
   {
-   "name": "S\u00d8NIN",
+   "name": "SØNIN",
    "label": "Enhanced Progressive",
    "labels": [
     "Enhanced Progressive"
