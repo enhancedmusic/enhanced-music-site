@@ -1,1 +1,786 @@
-{"generated_at":null,"artists":[]}
+{
+ "generated_at": "2026-11-18T20:58:26+00:00",
+ "rule": "lead artist on >=2 distinct release dates in last 365 days; one label (most lead releases)",
+ "artists": [
+  {
+   "name": "Audien",
+   "label": "Enhanced Recordings",
+   "labels": [
+    "Enhanced Recordings"
+   ],
+   "release_count": 4,
+   "cm_id": 3717,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE",
+   "image_url": "img/artist_3717.jpg",
+   "verified": true
+  },
+  {
+   "name": "Icarus",
+   "label": "Colorize",
+   "labels": [
+    "Colorize"
+   ],
+   "release_count": 2,
+   "cm_id": 56129,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3",
+   "image_url": "img/artist_56129.jpg",
+   "verified": true
+  },
+  {
+   "name": "Estiva",
+   "label": "Colorize",
+   "labels": [
+    "Colorize"
+   ],
+   "release_count": 8,
+   "cm_id": 117110,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE",
+   "image_url": "img/artist_117110.jpg",
+   "verified": true
+  },
+  {
+   "name": "Klur",
+   "label": "Colorize",
+   "labels": [
+    "Colorize"
+   ],
+   "release_count": 2,
+   "cm_id": 3970385,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/5Y1YwWzFX7BIxBbdAOXOEJ",
+   "image_url": "img/artist_3970385.jpg",
+   "verified": true
+  },
+  {
+   "name": "Matt Fax",
+   "label": "Colorize",
+   "labels": [
+    "Colorize"
+   ],
+   "release_count": 3,
+   "cm_id": 102898,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/1XgI1X3xjXCKRP1ZjhqgkV",
+   "image_url": "img/artist_102898.jpg",
+   "verified": true
+  },
+  {
+   "name": "Lipless",
+   "label": "Colorize",
+   "labels": [
+    "Colorize"
+   ],
+   "release_count": 2,
+   "cm_id": 40200,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA",
+   "image_url": "img/artist_40200.jpg",
+   "verified": true
+  },
+  {
+   "name": "Polar Inc.",
+   "label": "Colorize",
+   "labels": [
+    "Colorize"
+   ],
+   "release_count": 6,
+   "cm_id": 3341655,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/5r2fdrpH44S8EdFXO4jWfI",
+   "image_url": "img/artist_3341655.jpg",
+   "verified": true
+  },
+  {
+   "name": "Lauren Mia",
+   "label": "Enhanced Recordings",
+   "labels": [
+    "Enhanced Recordings"
+   ],
+   "release_count": 2,
+   "cm_id": 1582269,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/5HWKpmCYAFYybu5WKtxnnq",
+   "image_url": "img/artist_1582269.jpg",
+   "verified": true
+  },
+  {
+   "name": "Nitrous Oxide",
+   "label": "Enhanced Progressive",
+   "labels": [
+    "Enhanced Progressive"
+   ],
+   "release_count": 6,
+   "cm_id": 36655,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/0UJQXkmx6GjqUxugf7zzkR",
+   "image_url": "img/artist_36655.jpg",
+   "verified": true
+  },
+  {
+   "name": "Boehm",
+   "label": "Enhanced Chill",
+   "labels": [
+    "Enhanced Chill"
+   ],
+   "release_count": 6,
+   "cm_id": 14806,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/08p782h5VznNEQMM4wAEp9",
+   "image_url": "img/artist_14806.jpg",
+   "verified": true
+  },
+  {
+   "name": "Falden",
+   "label": "Colorize",
+   "labels": [
+    "Colorize"
+   ],
+   "release_count": 5,
+   "cm_id": 3976252,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/6O5LAkus9iGG1vvMGu5mDo",
+   "image_url": "img/artist_3976252.jpg",
+   "verified": true
+  },
+  {
+   "name": "Farius",
+   "label": "Enhanced Progressive",
+   "labels": [
+    "Enhanced Progressive"
+   ],
+   "release_count": 2,
+   "cm_id": 421368,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/76hZkywgIhbcrNft5bToXZ",
+   "image_url": "img/artist_421368.jpg",
+   "verified": true
+  },
+  {
+   "name": "Kindrid",
+   "label": "Enhanced Recordings",
+   "labels": [
+    "Enhanced Recordings"
+   ],
+   "release_count": 2,
+   "cm_id": 917383,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/5ACAhZZPLo1ukYpA4jLO6u",
+   "image_url": "img/artist_917383.jpg",
+   "verified": true
+  },
+  {
+   "name": "Morgin Madison",
+   "label": "Enhanced Recordings",
+   "labels": [
+    "Enhanced Recordings"
+   ],
+   "release_count": 3,
+   "cm_id": 783202,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/1WrO4cGKIG6EgYqyHNReej",
+   "image_url": "img/artist_783202.jpg",
+   "verified": true
+  },
+  {
+   "name": "Hessian",
+   "label": "Colorize",
+   "labels": [
+    "Colorize"
+   ],
+   "release_count": 1,
+   "cm_id": 1146432,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/3LOXsWYvJPnBVnQzCquxAs",
+   "image_url": "img/artist_1146432.jpg",
+   "verified": true
+  },
+  {
+   "name": "Pete K",
+   "label": "Colorize",
+   "labels": [
+    "Colorize"
+   ],
+   "release_count": 2,
+   "cm_id": 178501,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/2kwivERZbT1vThOGo32Wx6",
+   "image_url": "img/artist_178501.jpg",
+   "verified": true
+  },
+  {
+   "name": "MXV",
+   "label": "Colorize",
+   "labels": [
+    "Colorize"
+   ],
+   "release_count": 2,
+   "cm_id": 1389709,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/2CGL9R0HbeFEJgZ7b1ShHG",
+   "image_url": "img/artist_1389709.jpg",
+   "verified": true
+  },
+  {
+   "name": "PALLADIAN",
+   "label": "Enhanced Chill",
+   "labels": [
+    "Enhanced Chill"
+   ],
+   "release_count": 2,
+   "cm_id": 3887079,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/6XZx83KcYOarkuCd6fZBm3",
+   "image_url": "img/artist_3887079.jpg",
+   "verified": true
+  },
+  {
+   "name": "Sound Quelle",
+   "label": "Colorize",
+   "labels": [
+    "Colorize"
+   ],
+   "release_count": 5,
+   "cm_id": 453718,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/5mdTuNl23tON1WlsVbvD18",
+   "image_url": "img/artist_453718.jpg",
+   "verified": true
+  },
+  {
+   "name": "Johan Vilborg",
+   "label": "Enhanced Progressive",
+   "labels": [
+    "Enhanced Progressive"
+   ],
+   "release_count": 2,
+   "cm_id": 438587,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/7hccrx4H5boJlleSXh1j7N",
+   "image_url": "img/artist_438587.jpg",
+   "verified": true
+  },
+  {
+   "name": "Avenue One",
+   "label": "Colorize",
+   "labels": [
+    "Colorize"
+   ],
+   "release_count": 2,
+   "cm_id": 201898,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/36aAN3R8JUJBcInylswfxA",
+   "image_url": "img/artist_201898.jpg",
+   "verified": true
+  },
+  {
+   "name": "PRAANA",
+   "label": "Colorize",
+   "labels": [
+    "Colorize"
+   ],
+   "release_count": 4,
+   "cm_id": 1431983,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/7rgcAsQrCXfkQ4c7T0qF4n",
+   "image_url": "img/artist_1431983.jpg",
+   "verified": true
+  },
+  {
+   "name": "LAR",
+   "label": "Colorize",
+   "labels": [
+    "Colorize"
+   ],
+   "release_count": 2,
+   "cm_id": 6254176,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0",
+   "image_url": "img/artist_6254176.jpg",
+   "verified": true
+  },
+  {
+   "name": "ALLKNIGHT",
+   "label": "Colorize",
+   "labels": [
+    "Colorize"
+   ],
+   "release_count": 9,
+   "cm_id": 10137372,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c",
+   "image_url": "img/artist_10137372.jpg",
+   "verified": true
+  },
+  {
+   "name": "Leon Lour",
+   "label": "Enhanced Recordings",
+   "labels": [
+    "Enhanced Recordings"
+   ],
+   "release_count": 5,
+   "cm_id": 56021,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/0nNnD1oc02hebmFdcJkyXw",
+   "image_url": "img/artist_56021.jpg",
+   "verified": true
+  },
+  {
+   "name": "Dokho",
+   "label": "Enhanced Chill",
+   "labels": [
+    "Enhanced Chill"
+   ],
+   "release_count": 2,
+   "cm_id": 4336647,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/5m62yqRUbEgCFNLKLlHkXM",
+   "image_url": "img/artist_4336647.jpg",
+   "verified": true
+  },
+  {
+   "name": "Jack Willard",
+   "label": "Colorize",
+   "labels": [
+    "Colorize"
+   ],
+   "release_count": 7,
+   "cm_id": 9047235,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/0DIqQmQ7dKsuCPx6LDJWK7",
+   "image_url": "img/artist_9047235.jpg",
+   "verified": true
+  },
+  {
+   "name": "Guy Didden",
+   "label": "Colorize",
+   "labels": [
+    "Colorize"
+   ],
+   "release_count": 4,
+   "cm_id": 265597,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/1DaOoPiSgkDkuBOSnDG7Pz",
+   "image_url": "img/artist_265597.jpg",
+   "verified": true
+  },
+  {
+   "name": "John Grand",
+   "label": "Enhanced Progressive",
+   "labels": [
+    "Enhanced Progressive"
+   ],
+   "release_count": 3,
+   "cm_id": 42757,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/0aEdRQpkXFx1g2GwRfJgTy",
+   "image_url": "img/artist_42757.jpg",
+   "verified": true
+  },
+  {
+   "name": "GVN",
+   "label": "Enhanced Progressive",
+   "labels": [
+    "Enhanced Progressive"
+   ],
+   "release_count": 2,
+   "cm_id": 744759,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/1h4mpX9KJXJXoBlpAM6yqN",
+   "image_url": "img/artist_744759.jpg",
+   "verified": true
+  },
+  {
+   "name": "L.GU.",
+   "label": "Colorize",
+   "labels": [
+    "Colorize"
+   ],
+   "release_count": 3,
+   "cm_id": 3557548,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/5HLFjiA44P1kaJHdoOfhHt",
+   "image_url": "img/artist_3557548.jpg",
+   "verified": true
+  },
+  {
+   "name": "Mondingo",
+   "label": "Enhanced Chill",
+   "labels": [
+    "Enhanced Chill"
+   ],
+   "release_count": 3,
+   "cm_id": 1533643,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV",
+   "image_url": "img/artist_1533643.jpg",
+   "verified": true
+  },
+  {
+   "name": "Blugazer",
+   "label": "Enhanced Chill",
+   "labels": [
+    "Enhanced Chill"
+   ],
+   "release_count": 2,
+   "cm_id": 66100,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/0xIrZp36YYSHSm5J5BKKW4",
+   "image_url": "img/artist_66100.jpg",
+   "verified": true
+  },
+  {
+   "name": "Farves",
+   "label": "Enhanced Chill",
+   "labels": [
+    "Enhanced Chill"
+   ],
+   "release_count": 2,
+   "cm_id": 6951741,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/5xwXeWb8ITd7ESHk3y5PUB",
+   "image_url": "img/artist_6951741.jpg",
+   "verified": true
+  },
+  {
+   "name": "Cloudcage",
+   "label": "Enhanced Chill",
+   "labels": [
+    "Enhanced Chill"
+   ],
+   "release_count": 2,
+   "cm_id": 4385082,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/7voZA8iemE4e4c17BdlNaA",
+   "image_url": "img/artist_4385082.jpg",
+   "verified": true
+  },
+  {
+   "name": "Ophanim",
+   "label": "Colorize",
+   "labels": [
+    "Colorize"
+   ],
+   "release_count": 2,
+   "cm_id": 10752848,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/2YwyA5Urid8g7xLN5Gf52b",
+   "image_url": "img/artist_10752848.jpg",
+   "verified": true
+  },
+  {
+   "name": "oncor",
+   "label": "Enhanced Chill",
+   "labels": [
+    "Enhanced Chill"
+   ],
+   "release_count": 5,
+   "cm_id": 13493458,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/63xSD9oz9Y7hM7HXCSEydX",
+   "image_url": "img/artist_13493458.jpg",
+   "verified": true
+  },
+  {
+   "name": "Elmar",
+   "label": "Enhanced Recordings",
+   "labels": [
+    "Enhanced Recordings"
+   ],
+   "release_count": 2,
+   "cm_id": 10975444,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/7EHz93VYnMoRUKt46XUnom",
+   "image_url": "img/artist_10975444.jpg",
+   "verified": true
+  },
+  {
+   "name": "Lycii",
+   "label": "Enhanced Progressive",
+   "labels": [
+    "Enhanced Progressive"
+   ],
+   "release_count": 2,
+   "cm_id": 167216,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/2ZiXlRpANBshMELAuhkv33",
+   "image_url": "img/artist_167216.jpg",
+   "verified": true
+  },
+  {
+   "name": "Lørean",
+   "label": "Enhanced Recordings",
+   "labels": [
+    "Enhanced Recordings"
+   ],
+   "release_count": 3,
+   "cm_id": 662044,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/6MfPYmW3PWEPMKAdsffex4",
+   "image_url": "img/artist_662044.jpg",
+   "verified": true
+  },
+  {
+   "name": "DJ CØSMIC DREAM",
+   "label": "Enhanced Progressive",
+   "labels": [
+    "Enhanced Progressive"
+   ],
+   "release_count": 4,
+   "cm_id": 14477884,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/61W35KK2ZAqhDXx9x2306v",
+   "image_url": "img/artist_14477884.jpg",
+   "verified": true
+  },
+  {
+   "name": "Nohost",
+   "label": "Enhanced Recordings",
+   "labels": [
+    "Enhanced Recordings"
+   ],
+   "release_count": 1,
+   "cm_id": 1471828,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/0LJ2EQmZqB05sPEtr1nTuI",
+   "image_url": "img/artist_1471828.jpg",
+   "verified": true
+  },
+  {
+   "name": "GAALIA",
+   "label": "Colorize",
+   "labels": [
+    "Colorize"
+   ],
+   "release_count": 1,
+   "cm_id": 12698224,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/1HPnC14yHiJ4fLBWkEA0nU",
+   "image_url": "img/artist_12698224.jpg",
+   "verified": true
+  },
+  {
+   "name": "LADANZA",
+   "label": "Enhanced Recordings",
+   "labels": [
+    "Enhanced Recordings"
+   ],
+   "release_count": 2,
+   "cm_id": 12831203,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/7j5C97sz8xBIdtaKlMXjJI",
+   "image_url": "img/artist_12831203.jpg",
+   "verified": true
+  },
+  {
+   "name": "october mills",
+   "label": "Enhanced Chill",
+   "labels": [
+    "Enhanced Chill"
+   ],
+   "release_count": 4,
+   "cm_id": 14062122,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/04ru9wtWDyride2SXkWtLW",
+   "image_url": "img/artist_14062122.jpg",
+   "verified": true
+  },
+  {
+   "name": "San Mateo Drive",
+   "label": "Enhanced Chill",
+   "labels": [
+    "Enhanced Chill"
+   ],
+   "release_count": 2,
+   "cm_id": 1465918,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/1lncSFhRrlzvx0DvDSmeKB",
+   "image_url": "img/artist_1465918.jpg",
+   "verified": true
+  },
+  {
+   "name": "w.ill",
+   "label": "Enhanced Chill",
+   "labels": [
+    "Enhanced Chill"
+   ],
+   "release_count": 6,
+   "cm_id": 10103782,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/1lCkLrO2ZvHTkm1zGZkdCN",
+   "image_url": "img/artist_10103782.jpg",
+   "verified": true
+  },
+  {
+   "name": "Propellar",
+   "label": "Enhanced Chill",
+   "labels": [
+    "Enhanced Chill"
+   ],
+   "release_count": 2,
+   "cm_id": 1428166,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/4fMMVo3egxRy4FQP8KLu1T",
+   "image_url": "img/artist_1428166.jpg",
+   "verified": true
+  },
+  {
+   "name": "Sunny Lax",
+   "label": "Enhanced Progressive",
+   "labels": [
+    "Enhanced Progressive"
+   ],
+   "release_count": 2,
+   "cm_id": 44737,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/0cCOt2mcZfspvOOhY8TdmD",
+   "image_url": "img/artist_44737.jpg",
+   "verified": true
+  },
+  {
+   "name": "Temazkal",
+   "label": "Colorize",
+   "labels": [
+    "Colorize"
+   ],
+   "release_count": 2,
+   "cm_id": 10808514,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/71qYuhn5CuoFIpXTrfRwgi",
+   "image_url": "img/artist_10808514.jpg",
+   "verified": true
+  },
+  {
+   "name": "Rokazer",
+   "label": "Colorize",
+   "labels": [
+    "Colorize"
+   ],
+   "release_count": 3,
+   "cm_id": 1340347,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/0kBZmuhkAKIdZE5YVkdhqV",
+   "image_url": "img/artist_1340347.jpg",
+   "verified": true
+  },
+  {
+   "name": "Sinova",
+   "label": "Enhanced Chill",
+   "labels": [
+    "Enhanced Chill"
+   ],
+   "release_count": 3,
+   "cm_id": 4881098,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/7sZYAvOq5x6f2E4lLsCjJa",
+   "image_url": "img/artist_4881098.jpg",
+   "verified": true
+  },
+  {
+   "name": "Phillip Castle",
+   "label": "Enhanced Progressive",
+   "labels": [
+    "Enhanced Progressive"
+   ],
+   "release_count": 2,
+   "cm_id": 6884836,
+   "songstats_artist_id": null,
+   "spotify_url": "https://open.spotify.com/artist/74Ly4RWI1R9HIKN76crvxd",
+   "image_url": "img/artist_6884836.jpg",
+   "verified": true
+  },
+  {
+   "name": "Salright",
+   "label": "Enhanced Chill",
+   "labels": [
+    "Enhanced Chill"
+   ],
+   "release_count": 2,
+   "cm_id": 784296,
+   "songstats_artist_id": null,
+   "spotify_url": null,
+   "image_url": "img/artist_784296.jpg",
+   "verified": true
+  },
+  {
+   "name": "mölly",
+   "label": "Colorize",
+   "labels": [
+    "Colorize"
+   ],
+   "release_count": 6,
+   "cm_id": null,
+   "songstats_artist_id": null,
+   "spotify_url": null,
+   "image_url": null,
+   "verified": false
+  },
+  {
+   "name": "YORK",
+   "label": "Enhanced Recordings",
+   "labels": [
+    "Enhanced Recordings"
+   ],
+   "release_count": 1,
+   "cm_id": null,
+   "songstats_artist_id": null,
+   "spotify_url": null,
+   "image_url": null,
+   "verified": false
+  },
+  {
+   "name": "M.O.S.",
+   "label": "Colorize",
+   "labels": [
+    "Colorize"
+   ],
+   "release_count": 3,
+   "cm_id": null,
+   "songstats_artist_id": null,
+   "spotify_url": null,
+   "image_url": null,
+   "verified": false
+  },
+  {
+   "name": "Wassu",
+   "label": "Colorize",
+   "labels": [
+    "Colorize"
+   ],
+   "release_count": 2,
+   "cm_id": null,
+   "songstats_artist_id": null,
+   "spotify_url": null,
+   "image_url": null,
+   "verified": false
+  },
+  {
+   "name": "SØNIN",
+   "label": "Enhanced Progressive",
+   "labels": [
+    "Enhanced Progressive"
+   ],
+   "release_count": 3,
+   "cm_id": null,
+   "songstats_artist_id": null,
+   "spotify_url": null,
+   "image_url": null,
+   "verified": false
+  },
+  {
+   "name": "Division One",
+   "label": "Enhanced Recordings",
+   "labels": [
+    "Enhanced Recordings"
+   ],
+   "release_count": 2,
+   "cm_id": null,
+   "songstats_artist_id": null,
+   "spotify_url": null,
+   "image_url": null,
+   "verified": false
+  }
+ ]
+}
