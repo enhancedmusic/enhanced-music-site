@@ -52,7 +52,7 @@ const fmt=d=>new Date(d).toLocaleDateString('en-GB',{day:'numeric',month:'short'
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
 let R=[],F='',N=1000;
 function draw(){const L=R.filter(r=>!F||r.labels.includes(F)),sh=L.slice(0,N);
-$('rels').innerHTML=sh.map(r=>{const u=r.spotify_url,t=u?'a':'div';return `<${t} ${u?'href="'+esc(u)+'" target="_blank" rel="noopener"':''} class="card">${r.image_url?`<img class="img sq" loading="lazy" src="${esc(r.image_url)}" alt="${esc(r.name)}">`:`<div class="ph">PHOTO</div>`}<div class="t">${esc(r.name)}</div><div class="s">${esc(r.labels.join(' · '))}</div></${t}>`}).join('');
+$('rels').innerHTML=sh.map(r=>{const u=r.songshare_url||r.spotify_url,t=u?'a':'div';return `<${t} ${u?'href="'+esc(u)+'" target="_blank" rel="noopener"':''} class="card">${r.image_url?`<img class="img sq" loading="lazy" src="${esc(r.image_url)}" alt="${esc(r.name)}">`:`<div class="ph">PHOTO</div>`}<div class="t">${esc(r.name)}</div><div class="s">${esc(r.labels.join(' · '))}</div></${t}>`}).join('');
 $('more').style.display=L.length>N?'inline-block':'none'}
 $('more').onclick=()=>{N+=40;draw()};
 (async()=>{try{const r=await (await fetch('data/roster.json',{cache:'no-store'})).json();let H=[];try{H=((await (await fetch('data/roster_hidden.json',{cache:'no-store'})).json()).hidden_names||[]).map(x=>x.toLowerCase())}catch(e){}

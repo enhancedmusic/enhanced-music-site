@@ -26,7 +26,8 @@
    "songstats_artist_id": "75fu2leg",
    "spotify_url": null,
    "image_url": "img/artist_tritonal.jpg",
-   "verified": true
+   "verified": true,
+   "songshare_url": "https://songshare.com/artist/75fu2leg"
   },
   {
    "name": "Ryan Lucian",
@@ -39,7 +40,8 @@
    "songstats_artist_id": "gv02i1qk",
    "spotify_url": null,
    "image_url": "img/artist_ryanlucian.jpg",
-   "verified": true
+   "verified": true,
+   "songshare_url": "https://songshare.com/artist/gv02i1qk"
   },
   {
    "name": "HILYTE",
@@ -52,7 +54,8 @@
    "songstats_artist_id": "o1fmrzdj",
    "spotify_url": null,
    "image_url": "img/artist_hilyte.jpg",
-   "verified": true
+   "verified": true,
+   "songshare_url": "https://songshare.com/artist/o1fmrzdj"
   },
   {
    "name": "Hyperbits",
@@ -65,7 +68,8 @@
    "songstats_artist_id": "a2czeyxk",
    "spotify_url": null,
    "image_url": "img/artist_hyperbits.jpg",
-   "verified": true
+   "verified": true,
+   "songshare_url": "https://songshare.com/artist/a2czeyxk"
   },
   {
    "name": "EMBRZ",
@@ -78,7 +82,8 @@
    "songstats_artist_id": "logcuf7z",
    "spotify_url": null,
    "image_url": "img/artist_embrz.jpg",
-   "verified": true
+   "verified": true,
+   "songshare_url": "https://songshare.com/artist/logcuf7z"
   },
   {
    "name": "Linney",
@@ -91,7 +96,8 @@
    "songstats_artist_id": "roufctv5",
    "spotify_url": null,
    "image_url": "img/artist_linney.jpg",
-   "verified": true
+   "verified": true,
+   "songshare_url": "https://songshare.com/artist/roufctv5"
   },
   {
    "name": "MØØNE",
@@ -105,7 +111,8 @@
    "songstats_artist_id": "e91qn8c3",
    "spotify_url": null,
    "image_url": "img/artist_moone.jpg",
-   "verified": true
+   "verified": true,
+   "songshare_url": "https://songshare.com/artist/e91qn8c3"
   },
   {
    "name": "Icarus",
@@ -791,10 +798,11 @@
    ],
    "release_count": 2,
    "cm_id": 784296,
-   "songstats_artist_id": null,
+   "songstats_artist_id": "4cubf29q",
    "spotify_url": null,
    "image_url": "img/artist_784296.jpg",
-   "verified": true
+   "verified": true,
+   "songshare_url": "https://songshare.com/artist/4cubf29q"
   },
   {
    "name": "mölly",
@@ -807,7 +815,8 @@
    "songstats_artist_id": "ejmbyfq4",
    "spotify_url": null,
    "image_url": "img/artist_476375.jpg",
-   "verified": false
+   "verified": false,
+   "songshare_url": "https://songshare.com/artist/ejmbyfq4"
   },
   {
    "name": "YORK",
@@ -820,7 +829,8 @@
    "songstats_artist_id": "xfik578v",
    "spotify_url": null,
    "image_url": "img/artist_york.jpg",
-   "verified": false
+   "verified": false,
+   "songshare_url": "https://songshare.com/artist/xfik578v"
   },
   {
    "name": "M.O.S.",
@@ -833,7 +843,8 @@
    "songstats_artist_id": "plmfusbg",
    "spotify_url": null,
    "image_url": "img/artist_mos.jpg",
-   "verified": false
+   "verified": false,
+   "songshare_url": "https://songshare.com/artist/plmfusbg"
   },
   {
    "name": "Wassu",
@@ -846,7 +857,8 @@
    "songstats_artist_id": "uxp0giza",
    "spotify_url": null,
    "image_url": "img/artist_wassu.jpg",
-   "verified": false
+   "verified": false,
+   "songshare_url": "https://songshare.com/artist/uxp0giza"
   },
   {
    "name": "SØNIN",
@@ -859,7 +871,8 @@
    "songstats_artist_id": "fy627kan",
    "spotify_url": null,
    "image_url": "img/artist_sonin.jpg",
-   "verified": false
+   "verified": false,
+   "songshare_url": "https://songshare.com/artist/fy627kan"
   },
   {
    "name": "Division One",
@@ -872,7 +885,8 @@
    "songstats_artist_id": "2us5o8wk",
    "spotify_url": null,
    "image_url": "img/artist_divisionone.jpg",
-   "verified": false
+   "verified": false,
+   "songshare_url": "https://songshare.com/artist/2us5o8wk"
   }
  ]
 }
