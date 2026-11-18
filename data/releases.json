@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-18T20:08:47+00:00",
+ "generated_at": "2026-11-18T22:32:36+00:00",
  "today": "2026-11-18",
  "labels": [
   "Enhanced Recordings",
@@ -13,14 +13,20 @@
    "label": "Colorize",
    "title": "Insight Out (Remixes)",
    "artists": "PRAANA",
-   "release_type": "Album",
+   "release_type": "EP",
    "release_date": "2026-11-18",
    "cover_url": "https://i.scdn.co/image/ab67616d0000b27325f05919a0dd1c6a0828a4fd",
    "cover_source_url": "https://i.scdn.co/image/ab67616d0000b27325f05919a0dd1c6a0828a4fd",
    "spotify_url": "https://open.spotify.com/album/1VFbpqVXyS1ixrQgRwjpAQ",
    "songstats_url": "https://songstats.com/track/py28bv7a/falling-off-klangsberg-remix",
    "songshare_url": "https://songshare.com/track/py28bv7a",
-   "track_count": 7
+   "track_count": 7,
+   "album_id": "d31vawbs",
+   "track_ids": [
+    "py28bv7a",
+    "xuwc8yr0",
+    "zyi6wujg"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -33,7 +39,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/l7pkoxt6/another-life",
    "songshare_url": "https://songshare.com/track/l7pkoxt6",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "l7pkoxt6"
+   ]
   },
   {
    "label": "Enhanced Recordings",
@@ -46,7 +56,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/l03w1zc8/elasticated",
    "songshare_url": "https://songshare.com/track/l03w1zc8",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "l03w1zc8"
+   ]
   },
   {
    "label": "Enhanced Progressive",
@@ -59,7 +73,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/jrib03hx/launch-control",
    "songshare_url": "https://songshare.com/track/jrib03hx",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "jrib03hx"
+   ]
   },
   {
    "label": "Colorize",
@@ -72,7 +90,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/dzri3ow7/some-kind-of-feeling",
    "songshare_url": "https://songshare.com/track/dzri3ow7",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "dzri3ow7"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -85,7 +107,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/51mbp6ah/falling-like-the-rain",
    "songshare_url": "https://songshare.com/track/51mbp6ah",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "51mbp6ah"
+   ]
   },
   {
    "label": "Enhanced Recordings",
@@ -98,20 +124,18 @@
    "spotify_url": "https://open.spotify.com/album/1YqLq7nb05rncYBumJcCi9",
    "songstats_url": "https://songstats.com/track/l7t0jqhu/everything",
    "songshare_url": "https://songshare.com/track/l7t0jqhu",
-   "track_count": 13
-  },
-  {
-   "label": "Enhanced Recordings",
-   "title": "Prima",
-   "artists": "Polar Inc.",
-   "release_type": "Single",
-   "release_date": "2026-11-06",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b2737e904cfe14df35d2220c4235",
-   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b2737e904cfe14df35d2220c4235",
-   "spotify_url": null,
-   "songstats_url": "https://songstats.com/track/z0qhj2xo/prima",
-   "songshare_url": "https://songshare.com/track/z0qhj2xo",
-   "track_count": 1
+   "track_count": 13,
+   "album_id": "7fptji3w",
+   "track_ids": [
+    "l7t0jqhu",
+    "fv4o0rpe",
+    "h403ykn8",
+    "o4znqs0m",
+    "zl2gfxyn",
+    "6xvzuypq",
+    "b74wyho5",
+    "41x265ku"
+   ]
   },
   {
    "label": "Enhanced Progressive",
@@ -124,25 +148,37 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/7d0cifve/elevate",
    "songshare_url": "https://songshare.com/track/7d0cifve",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "7d0cifve"
+   ]
   },
   {
-   "label": "Enhanced Recordings",
-   "title": "Arrival",
-   "artists": "Morgin Madison & Ryan Lucian",
-   "release_type": "Single",
-   "release_date": "2026-11-05",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b2737641fa53d671e5005664678c",
-   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b2737641fa53d671e5005664678c",
+   "label": "Colorize",
+   "title": "Tragicomedy",
+   "artists": "Polar Inc.",
+   "release_type": "EP",
+   "release_date": "2026-11-06",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b2737e904cfe14df35d2220c4235",
+   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b2737e904cfe14df35d2220c4235",
    "spotify_url": null,
-   "songstats_url": "https://songstats.com/track/6xvzuypq/arrival",
-   "songshare_url": "https://songshare.com/track/6xvzuypq",
-   "track_count": 1
+   "songstats_url": "https://songstats.com/track/ni4ax163/agulhas",
+   "songshare_url": "https://songshare.com/track/ni4ax163",
+   "track_count": 5,
+   "album_id": "c6eilot7",
+   "track_ids": [
+    "ni4ax163",
+    "u5mqbpxl",
+    "54s2nwjb",
+    "3gd9bawv",
+    "z0qhj2xo"
+   ]
   },
   {
    "label": "Enhanced Recordings",
    "title": "You Don't Think I Love You",
-   "artists": "Elmar & anam\u0113",
+   "artists": "Elmar & anamē",
    "release_type": "Single",
    "release_date": "2026-11-04",
    "cover_url": "https://i.scdn.co/image/ab67616d0000b273acef1da7e92772d598e03853",
@@ -150,7 +186,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/sz5pcjq4/you-don-t-think-i-love-you",
    "songshare_url": "https://songshare.com/track/sz5pcjq4",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "sz5pcjq4"
+   ]
   },
   {
    "label": "Colorize",
@@ -158,16 +198,21 @@
    "artists": "Falden",
    "release_type": "EP",
    "release_date": "2026-11-04",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b2739b071f5b602d1dc119bf68c3",
-   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b2739b071f5b602d1dc119bf68c3",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273b42a86f435f7bdc18fb36349",
+   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b273b42a86f435f7bdc18fb36349",
    "spotify_url": "https://open.spotify.com/album/2yVMVUKaK6xgCVXKcNp03W",
    "songstats_url": "https://songstats.com/track/s5ihun9y/in-the-dark",
    "songshare_url": "https://songshare.com/track/s5ihun9y",
-   "track_count": 5
+   "track_count": 5,
+   "album_id": "kp16jrdc",
+   "track_ids": [
+    "s5ihun9y",
+    "qd0xhgj8"
+   ]
   },
   {
    "label": "Enhanced Chill",
-   "title": "Blossom",
+   "title": "Aura / Blossom",
    "artists": "w.ill & Iskarelyn",
    "release_type": "EP",
    "release_date": "2026-11-04",
@@ -176,46 +221,31 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/k4azi9v2/blossom",
    "songshare_url": "https://songshare.com/track/k4azi9v2",
-   "track_count": 2
+   "track_count": 2,
+   "album_id": "uio3a0n5",
+   "track_ids": [
+    "k4azi9v2",
+    "5x1q4f9c"
+   ]
   },
   {
    "label": "Enhanced Recordings",
-   "title": "7 Miles High - Panuma Remix",
-   "artists": "LUKE ALEXANDER, Panuma & Audien",
-   "release_type": "Single",
+   "title": "7 Miles High (Remixes)",
+   "artists": "LUKE ALEXANDER & Audien",
+   "release_type": "EP",
    "release_date": "2026-11-02",
    "cover_url": "https://i.scdn.co/image/ab67616d0000b2731ae23f3873d8d3d23c665762",
    "cover_source_url": "https://i.scdn.co/image/ab67616d0000b2731ae23f3873d8d3d23c665762",
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/8mycr20h/7-miles-high-panuma-remix",
    "songshare_url": "https://songshare.com/track/8mycr20h",
-   "track_count": 1
-  },
-  {
-   "label": "Enhanced Recordings",
-   "title": "7 Miles High - B/AN/K Remix",
-   "artists": "B/AN/K, LUKE ALEXANDER & Audien",
-   "release_type": "Single",
-   "release_date": "2026-11-02",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b273417cd76e843e198a7a29df9e",
-   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b273417cd76e843e198a7a29df9e",
-   "spotify_url": null,
-   "songstats_url": "https://songstats.com/track/y10ltohq/7-miles-high-b-an-k-remix",
-   "songshare_url": "https://songshare.com/track/y10ltohq",
-   "track_count": 1
-  },
-  {
-   "label": "Enhanced Recordings",
-   "title": "7 Miles High (feat. LUKE ALEXANDER) - Alex Adair Remix",
-   "artists": "Alex Adair, Audien & LUKE ALEXANDER",
-   "release_type": "Single",
-   "release_date": "2026-11-02",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b2739d62ebe3ee6f7fb964c80639",
-   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b2739d62ebe3ee6f7fb964c80639",
-   "spotify_url": null,
-   "songstats_url": "https://songstats.com/track/u14fhxyk/7-miles-high-feat-luke-alexander-alex-adair-remix",
-   "songshare_url": "https://songshare.com/track/u14fhxyk",
-   "track_count": 1
+   "track_count": 3,
+   "album_id": "o40pus2f",
+   "track_ids": [
+    "8mycr20h",
+    "y10ltohq",
+    "u14fhxyk"
+   ]
   },
   {
    "label": "Enhanced Recordings",
@@ -228,46 +258,46 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/r10wasbj/ghost-town",
    "songshare_url": "https://songshare.com/track/r10wasbj",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "r10wasbj"
+   ]
   },
   {
    "label": "Enhanced Progressive",
    "title": "This Should Be An EP",
-   "artists": "DJ C\u00d8SMIC DREAM & S\u00d8NIN",
+   "artists": "DJ CØSMIC DREAM & SØNIN",
    "release_type": "EP",
    "release_date": "2026-10-30",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b2731b872ede28ff420565baf185",
-   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b2731b872ede28ff420565baf185",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b2731eb7d67284d1d0afb98b6c73",
+   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b2731eb7d67284d1d0afb98b6c73",
    "spotify_url": "https://open.spotify.com/album/4RuLAoB4mto4rWqSldaKS1",
    "songstats_url": "https://songstats.com/track/s2h9zm7k/free",
    "songshare_url": "https://songshare.com/track/s2h9zm7k",
-   "track_count": 4
+   "track_count": 4,
+   "album_id": "eh08mfp7",
+   "track_ids": [
+    "s2h9zm7k"
+   ]
   },
   {
    "label": "Colorize",
-   "title": "To The Ground - Helsloot Remix",
+   "title": "15 Years of Colorize: Remixes",
    "artists": "Matt Fax & Helsloot",
-   "release_type": "Single",
+   "release_type": "EP",
    "release_date": "2026-10-30",
    "cover_url": "https://i.scdn.co/image/ab67616d0000b2733e0a1443884add4bed42f20a",
    "cover_source_url": "https://i.scdn.co/image/ab67616d0000b2733e0a1443884add4bed42f20a",
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/apesxhq2/to-the-ground-helsloot-remix",
    "songshare_url": "https://songshare.com/track/apesxhq2",
-   "track_count": 1
-  },
-  {
-   "label": "Colorize",
-   "title": "Aura",
-   "artists": "Modelers",
-   "release_type": "Single",
-   "release_date": "2026-10-30",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b2731cbfaa02267efb509d77b095",
-   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b2731cbfaa02267efb509d77b095",
-   "spotify_url": null,
-   "songstats_url": "https://songstats.com/track/anmx9jrg/aura",
-   "songshare_url": "https://songshare.com/track/anmx9jrg",
-   "track_count": 1
+   "track_count": 2,
+   "album_id": "tbalcw05",
+   "track_ids": [
+    "apesxhq2",
+    "xz8bhdfy"
+   ]
   },
   {
    "label": "Colorize",
@@ -280,7 +310,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/widuackh/in-your-mind",
    "songshare_url": "https://songshare.com/track/widuackh",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "widuackh"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -293,7 +327,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/szcyol6w/empty-space",
    "songshare_url": "https://songshare.com/track/szcyol6w",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "szcyol6w"
+   ]
   },
   {
    "label": "Colorize",
@@ -306,7 +344,13 @@
    "spotify_url": "https://open.spotify.com/album/02WdAi4oej96cyK7zSagbv",
    "songstats_url": "https://songstats.com/track/vmqkusec/one-more-day",
    "songshare_url": "https://songshare.com/track/vmqkusec",
-   "track_count": 4
+   "track_count": 4,
+   "album_id": "ov89t2l7",
+   "track_ids": [
+    "vmqkusec",
+    "zpbdy62i",
+    "w9pfc802"
+   ]
   },
   {
    "label": "Enhanced Recordings",
@@ -319,7 +363,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/z20193cs/remain",
    "songshare_url": "https://songshare.com/track/z20193cs",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "z20193cs"
+   ]
   },
   {
    "label": "Enhanced Progressive",
@@ -332,24 +380,15 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/t4vd71ib/believe-in-more",
    "songshare_url": "https://songshare.com/track/t4vd71ib",
-   "track_count": 1
-  },
-  {
-   "label": "Enhanced Progressive",
-   "title": "Masque",
-   "artists": "Taber & Chris Giuliano",
-   "release_type": "Single",
-   "release_date": "2026-10-23",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b2737316c8ae23923b4cce4b702d",
-   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b2737316c8ae23923b4cce4b702d",
-   "spotify_url": null,
-   "songstats_url": "https://songstats.com/track/5rbkx3ge/masque",
-   "songshare_url": "https://songshare.com/track/5rbkx3ge",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "t4vd71ib"
+   ]
   },
   {
    "label": "Enhanced Chill",
-   "title": "Indigo Garden",
+   "title": "Indigo Garden / Calendula",
    "artists": "Moon Kyoo & cypress",
    "release_type": "EP",
    "release_date": "2026-10-21",
@@ -358,25 +397,17 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/1ird6t8l/indigo-garden",
    "songshare_url": "https://songshare.com/track/1ird6t8l",
-   "track_count": 2
-  },
-  {
-   "label": "Colorize",
-   "title": "Mojave - m\u00f6lly Remix",
-   "artists": "PRAANA & Molly",
-   "release_type": "Single",
-   "release_date": "2026-10-19",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b273189962a2e44854de5babe559",
-   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b273189962a2e44854de5babe559",
-   "spotify_url": null,
-   "songstats_url": "https://songstats.com/track/xz8bhdfy/mojave-molly-remix",
-   "songshare_url": "https://songshare.com/track/xz8bhdfy",
-   "track_count": 1
+   "track_count": 2,
+   "album_id": "eyfi1lv9",
+   "track_ids": [
+    "1ird6t8l",
+    "4f5cr0l2"
+   ]
   },
   {
    "label": "Enhanced Recordings",
    "title": "Morning Thief",
-   "artists": "Sandrayati & anam\u0113",
+   "artists": "Sandrayati & anamē",
    "release_type": "Single",
    "release_date": "2026-10-16",
    "cover_url": "https://i.scdn.co/image/ab67616d0000b273340d96f54744ad73ecdfcbfd",
@@ -384,7 +415,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/o1zw6qxm/morning-thief",
    "songshare_url": "https://songshare.com/track/o1zw6qxm",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "o1zw6qxm"
+   ]
   },
   {
    "label": "Enhanced Progressive",
@@ -397,7 +432,12 @@
    "spotify_url": "https://open.spotify.com/album/1t8sHkBMnfLDyuXcQa8qjP",
    "songstats_url": "https://songstats.com/track/2nwry5b0/amnesia",
    "songshare_url": "https://songshare.com/track/2nwry5b0",
-   "track_count": 2
+   "track_count": 2,
+   "album_id": "orve87si",
+   "track_ids": [
+    "2nwry5b0",
+    "4znvj71t"
+   ]
   },
   {
    "label": "Colorize",
@@ -410,11 +450,15 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/fsl2bqpj/orbit",
    "songshare_url": "https://songshare.com/track/fsl2bqpj",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "fsl2bqpj"
+   ]
   },
   {
    "label": "Enhanced Chill",
-   "title": "Get Up",
+   "title": "New Life",
    "artists": "Mondingo",
    "release_type": "Single",
    "release_date": "2026-10-16",
@@ -423,11 +467,15 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/8kxebyow/get-up",
    "songshare_url": "https://songshare.com/track/8kxebyow",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": "3hnmpqrd",
+   "track_ids": [
+    "8kxebyow"
+   ]
   },
   {
    "label": "Colorize",
-   "title": "Midnight",
+   "title": "Purple Whisper / Midnight",
    "artists": "Peter Illias & Heard Right",
    "release_type": "Single",
    "release_date": "2026-10-14",
@@ -436,7 +484,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/85xup4mh/midnight",
    "songshare_url": "https://songshare.com/track/85xup4mh",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": "svwqz2p9",
+   "track_ids": [
+    "85xup4mh"
+   ]
   },
   {
    "label": "Colorize",
@@ -449,7 +501,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/8k0dibtr/prove-faodail-remix",
    "songshare_url": "https://songshare.com/track/8k0dibtr",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "8k0dibtr"
+   ]
   },
   {
    "label": "Enhanced Recordings",
@@ -462,7 +518,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/tqcukleh/around-you",
    "songshare_url": "https://songshare.com/track/tqcukleh",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "tqcukleh"
+   ]
   },
   {
    "label": "Enhanced Progressive",
@@ -475,7 +535,12 @@
    "spotify_url": "https://open.spotify.com/album/37BHGrWkh5jgTOe5QdU99F",
    "songstats_url": "https://songstats.com/track/glkjxram/shadows",
    "songshare_url": "https://songshare.com/track/glkjxram",
-   "track_count": 2
+   "track_count": 2,
+   "album_id": "gwi4s18m",
+   "track_ids": [
+    "glkjxram",
+    "lt012doh"
+   ]
   },
   {
    "label": "Colorize",
@@ -488,7 +553,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/wn0ouvlj/holding-me-up",
    "songshare_url": "https://songshare.com/track/wn0ouvlj",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "wn0ouvlj"
+   ]
   },
   {
    "label": "Colorize",
@@ -501,11 +570,15 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/nrcqhgz9/lifeline",
    "songshare_url": "https://songshare.com/track/nrcqhgz9",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "nrcqhgz9"
+   ]
   },
   {
    "label": "Enhanced Chill",
-   "title": "Artemis",
+   "title": "Artemis / Siren's Call",
    "artists": "Dokho",
    "release_type": "EP",
    "release_date": "2026-10-07",
@@ -514,20 +587,30 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/ujnstvgr/artemis",
    "songshare_url": "https://songshare.com/track/ujnstvgr",
-   "track_count": 2
+   "track_count": 2,
+   "album_id": "hb85x1ki",
+   "track_ids": [
+    "ujnstvgr",
+    "05oi6jsn"
+   ]
   },
   {
    "label": "Colorize",
-   "title": "Repeater - Einmusik Extended Remix",
+   "title": "Repeater (Einmusik Remix)",
    "artists": "Einmusik & Estiva",
-   "release_type": "Single",
+   "release_type": "EP",
    "release_date": "2026-10-05",
    "cover_url": "https://i.scdn.co/image/ab67616d0000b2739e7732226adfc3375e848663",
    "cover_source_url": "https://i.scdn.co/image/ab67616d0000b2739e7732226adfc3375e848663",
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/fz8nar4y/repeater-einmusik-extended-remix",
    "songshare_url": "https://songshare.com/track/fz8nar4y",
-   "track_count": 1
+   "track_count": 2,
+   "album_id": "6exyw0an",
+   "track_ids": [
+    "fz8nar4y",
+    "h5fyzurt"
+   ]
   },
   {
    "label": "Enhanced Recordings",
@@ -540,12 +623,16 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/6k0eq2bu/heavenbound",
    "songshare_url": "https://songshare.com/track/6k0eq2bu",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "6k0eq2bu"
+   ]
   },
   {
    "label": "Enhanced Progressive",
    "title": "Remember",
-   "artists": "DJ C\u00d8SMIC DREAM",
+   "artists": "DJ CØSMIC DREAM",
    "release_type": "Single",
    "release_date": "2026-10-02",
    "cover_url": "https://i.scdn.co/image/ab67616d0000b273e9aaa90289d26934794609e4",
@@ -553,7 +640,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/fkmpl035/remember",
    "songshare_url": "https://songshare.com/track/fkmpl035",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "fkmpl035"
+   ]
   },
   {
    "label": "Colorize",
@@ -561,25 +652,69 @@
    "artists": "Guy Didden & Jack Willard",
    "release_type": "Single",
    "release_date": "2026-10-02",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b273e735fd64efc4822b5c43a5cf",
-   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b273e735fd64efc4822b5c43a5cf",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273e5d8ca6cb911f20e307de665",
+   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b273e5d8ca6cb911f20e307de665",
    "spotify_url": "https://open.spotify.com/album/3mkQoUm5fDXBq4a4Ohaj4r",
    "songstats_url": "https://songstats.com/track/ixfm63cl/over-over",
    "songshare_url": "https://songshare.com/track/ixfm63cl",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "ixfm63cl"
+   ]
   },
   {
    "label": "Colorize",
-   "title": "Repeater - Einmusik Remix",
-   "artists": "Estiva & Einmusik",
+   "title": "Call To Me",
+   "artists": "Jack Willard & MØØNE",
    "release_type": "Single",
    "release_date": "2026-10-02",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b2739e7732226adfc3375e848663",
-   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b2739e7732226adfc3375e848663",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273e5d8ca6cb911f20e307de665",
+   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b273e5d8ca6cb911f20e307de665",
    "spotify_url": null,
-   "songstats_url": "https://songstats.com/track/h5fyzurt/repeater-einmusik-remix",
-   "songshare_url": "https://songshare.com/track/h5fyzurt",
-   "track_count": 1
+   "songstats_url": "https://songstats.com/track/j826hqe3/call-to-me",
+   "songshare_url": "https://songshare.com/track/j826hqe3",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "j826hqe3"
+   ]
+  },
+  {
+   "label": "Colorize",
+   "title": "Time",
+   "artists": "Jack Willard",
+   "release_type": "EP",
+   "release_date": "2026-10-02",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273e5d8ca6cb911f20e307de665",
+   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b273e5d8ca6cb911f20e307de665",
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/6i05rf4h/time",
+   "songshare_url": "https://songshare.com/track/6i05rf4h",
+   "track_count": 3,
+   "album_id": null,
+   "track_ids": [
+    "6i05rf4h",
+    "f7ius8w9",
+    "jhuz3pwa"
+   ]
+  },
+  {
+   "label": "Colorize",
+   "title": "Slow Burn",
+   "artists": "Josefina & Jack Willard",
+   "release_type": "Single",
+   "release_date": "2026-10-02",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273e5d8ca6cb911f20e307de665",
+   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b273e5d8ca6cb911f20e307de665",
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/31d9bsag/slow-burn",
+   "songshare_url": "https://songshare.com/track/31d9bsag",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "31d9bsag"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -592,7 +727,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/gcfqs67b/nostalgia-endless-summer",
    "songshare_url": "https://songshare.com/track/gcfqs67b",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "gcfqs67b"
+   ]
   },
   {
    "label": "Colorize",
@@ -605,12 +744,16 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/31aw9zb0/black-hole",
    "songshare_url": "https://songshare.com/track/31aw9zb0",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "31aw9zb0"
+   ]
   },
   {
    "label": "Enhanced Chill",
    "title": "The Summit",
-   "artists": "J\u00f6rd & Delancy",
+   "artists": "Jörd & Delancy",
    "release_type": "Single",
    "release_date": "2026-09-30",
    "cover_url": "https://i.scdn.co/image/ab67616d0000b2732253ac77cb15b4c86d1e7b42",
@@ -618,7 +761,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/md7aj92s/the-summit",
    "songshare_url": "https://songshare.com/track/md7aj92s",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "md7aj92s"
+   ]
   },
   {
    "label": "Colorize",
@@ -631,7 +778,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/z6akjgs1/higher-dosem-remix",
    "songshare_url": "https://songshare.com/track/z6akjgs1",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "z6akjgs1"
+   ]
   },
   {
    "label": "Enhanced Recordings",
@@ -644,7 +795,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/5qv8ux2f/7-miles-high",
    "songshare_url": "https://songshare.com/track/5qv8ux2f",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "5qv8ux2f"
+   ]
   },
   {
    "label": "Enhanced Progressive",
@@ -657,7 +812,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/grnxu6pt/by-you",
    "songshare_url": "https://songshare.com/track/grnxu6pt",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "grnxu6pt"
+   ]
   },
   {
    "label": "Colorize",
@@ -670,46 +829,36 @@
    "spotify_url": "https://open.spotify.com/album/6ZjEwOwPOQqXW9aTucr9aI",
    "songstats_url": "https://songstats.com/track/izljvmxq/by-the-ocean",
    "songshare_url": "https://songshare.com/track/izljvmxq",
-   "track_count": 37
-  },
-  {
-   "label": "Colorize",
-   "title": "Old Days",
-   "artists": "Little Foot",
-   "release_type": "Single",
-   "release_date": "2026-09-25",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b273e2e3f934cd0c13a164c633ec",
-   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b273e2e3f934cd0c13a164c633ec",
-   "spotify_url": null,
-   "songstats_url": "https://songstats.com/track/euykhgbz/old-days",
-   "songshare_url": "https://songshare.com/track/euykhgbz",
-   "track_count": 1
-  },
-  {
-   "label": "Colorize",
-   "title": "Last Signal",
-   "artists": "Guy Didden & Datskie",
-   "release_type": "Single",
-   "release_date": "2026-09-25",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b273eab53a4b53ecd959e68ae250",
-   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b273eab53a4b53ecd959e68ae250",
-   "spotify_url": null,
-   "songstats_url": "https://songstats.com/track/q17vseft/last-signal",
-   "songshare_url": "https://songshare.com/track/q17vseft",
-   "track_count": 1
+   "track_count": 37,
+   "album_id": "socij24v",
+   "track_ids": [
+    "izljvmxq",
+    "jlha84ge",
+    "x5thbwsf",
+    "euykhgbz",
+    "q17vseft",
+    "i5yfd4hz",
+    "i3twnz4c",
+    "9yxpjkv0",
+    "juay26hk"
+   ]
   },
   {
    "label": "Colorize",
    "title": "Ashfall / Written In Destiny",
-   "artists": "Temazkal",
-   "release_type": "EP",
+   "artists": "Temazkal, NUVORA, TRE & Jessie Lee Thetford",
+   "release_type": "Single",
    "release_date": "2026-09-23",
    "cover_url": "https://i.scdn.co/image/ab67616d0000b27309321f580bf5bf92ae57c75a",
    "cover_source_url": "https://i.scdn.co/image/ab67616d0000b27309321f580bf5bf92ae57c75a",
    "spotify_url": "https://open.spotify.com/album/1jEHXgwFvE9KZDDciq1Jmn",
-   "songstats_url": "https://songstats.com/track/i3twnz4c/ashfall",
-   "songshare_url": "https://songshare.com/track/i3twnz4c",
-   "track_count": 3
+   "songstats_url": "https://songstats.com/track/japtbiqk/ashfall",
+   "songshare_url": "https://songshare.com/track/japtbiqk",
+   "track_count": 1,
+   "album_id": "6pel85ys",
+   "track_ids": [
+    "japtbiqk"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -722,20 +871,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/sq6li7wv/august-don-t-let-me-go",
    "songshare_url": "https://songshare.com/track/sq6li7wv",
-   "track_count": 1
-  },
-  {
-   "label": "Colorize",
-   "title": "Breathe In - Fejk\u00e1 Remix",
-   "artists": "Kuala, Klur, PRAANA & Fejk\u00e1",
-   "release_type": "Single",
-   "release_date": "2026-09-21",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b2734017b86def3ad7c48c083b48",
-   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b2734017b86def3ad7c48c083b48",
-   "spotify_url": null,
-   "songstats_url": "https://songstats.com/track/juay26hk/breathe-in-fejka-remix",
-   "songshare_url": "https://songshare.com/track/juay26hk",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "sq6li7wv"
+   ]
   },
   {
    "label": "Enhanced Recordings",
@@ -748,12 +888,16 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/i3de1lwz/new-life",
    "songshare_url": "https://songshare.com/track/i3de1lwz",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "i3de1lwz"
+   ]
   },
   {
    "label": "Enhanced Recordings",
    "title": "You Are Home",
-   "artists": "Elvira Alfaro & anam\u0113",
+   "artists": "Elvira Alfaro & anamē",
    "release_type": "Single",
    "release_date": "2026-09-18",
    "cover_url": "https://i.scdn.co/image/ab67616d0000b273f6980477178999ff1bfeb2ca",
@@ -761,7 +905,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/38ei1d2c/you-are-home",
    "songshare_url": "https://songshare.com/track/38ei1d2c",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "38ei1d2c"
+   ]
   },
   {
    "label": "Enhanced Progressive",
@@ -774,7 +922,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/ha1ivzru/sorry",
    "songshare_url": "https://songshare.com/track/ha1ivzru",
-   "track_count": 2
+   "track_count": 2,
+   "album_id": null,
+   "track_ids": [
+    "ha1ivzru"
+   ]
   },
   {
    "label": "Colorize",
@@ -787,7 +939,11 @@
    "spotify_url": "https://open.spotify.com/album/5uFGDsE6PoUPUGz2xS80Fq",
    "songstats_url": "https://songstats.com/track/9a6w5jty/only-ever",
    "songshare_url": "https://songshare.com/track/9a6w5jty",
-   "track_count": 19
+   "track_count": 19,
+   "album_id": null,
+   "track_ids": [
+    "9a6w5jty"
+   ]
   },
   {
    "label": "Colorize",
@@ -800,12 +956,16 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/scn9xwoe/purple-whisper",
    "songshare_url": "https://songshare.com/track/scn9xwoe",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "scn9xwoe"
+   ]
   },
   {
    "label": "Colorize",
    "title": "Overcome",
-   "artists": "ALLKNIGHT & M\u00d8\u00d8NE",
+   "artists": "ALLKNIGHT & MØØNE",
    "release_type": "Single",
    "release_date": "2026-09-16",
    "cover_url": "https://i.scdn.co/image/ab67616d0000b273fda72efdb5dd93b7d760fff2",
@@ -813,12 +973,16 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/q1zj794l/overcome",
    "songshare_url": "https://songshare.com/track/q1zj794l",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "q1zj794l"
+   ]
   },
   {
    "label": "Colorize",
    "title": "If Here Was Forever",
-   "artists": "M\u00d8\u00d8NE & ALLKNIGHT",
+   "artists": "MØØNE & ALLKNIGHT",
    "release_type": "Single",
    "release_date": "2026-09-16",
    "cover_url": "https://i.scdn.co/image/ab67616d0000b2738d1d9360547b9d47e2e62b6a",
@@ -826,7 +990,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/kj0hntx1/if-here-was-forever",
    "songshare_url": "https://songshare.com/track/kj0hntx1",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "kj0hntx1"
+   ]
   },
   {
    "label": "Colorize",
@@ -839,7 +1007,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/vpqrgi47/wishing-well-edapollo-remix",
    "songshare_url": "https://songshare.com/track/vpqrgi47",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "vpqrgi47"
+   ]
   },
   {
    "label": "Enhanced Recordings",
@@ -852,12 +1024,16 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/ea9ridxf/follow-you-fyh514",
    "songshare_url": "https://songshare.com/track/ea9ridxf",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "ea9ridxf"
+   ]
   },
   {
    "label": "Enhanced Progressive",
    "title": "Together",
-   "artists": "L\u00f8rean & DUMMF\u00d6UND",
+   "artists": "Lørean & DUMMFÖUND",
    "release_type": "Single",
    "release_date": "2026-09-11",
    "cover_url": "https://i.scdn.co/image/ab67616d0000b2736ed13ae27b61211ae73d435d",
@@ -865,7 +1041,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/xgqb2f48/together",
    "songshare_url": "https://songshare.com/track/xgqb2f48",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "xgqb2f48"
+   ]
   },
   {
    "label": "Colorize",
@@ -878,7 +1058,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/rsoxhmli/slopes",
    "songshare_url": "https://songshare.com/track/rsoxhmli",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "rsoxhmli"
+   ]
   },
   {
    "label": "Colorize",
@@ -891,7 +1075,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/1hkc3ndz/no-goodbye",
    "songshare_url": "https://songshare.com/track/1hkc3ndz",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "1hkc3ndz"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -904,7 +1092,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/u86gizq1/always",
    "songshare_url": "https://songshare.com/track/u86gizq1",
-   "track_count": 2
+   "track_count": 2,
+   "album_id": null,
+   "track_ids": [
+    "u86gizq1"
+   ]
   },
   {
    "label": "Colorize",
@@ -917,12 +1109,16 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/53rhl092/deep-chicken-astrality-extended-remix",
    "songshare_url": "https://songshare.com/track/53rhl092",
-   "track_count": 2
+   "track_count": 2,
+   "album_id": null,
+   "track_ids": [
+    "53rhl092"
+   ]
   },
   {
    "label": "Enhanced Progressive",
    "title": "Polynesia",
-   "artists": "DJ C\u00d8SMIC DREAM",
+   "artists": "DJ CØSMIC DREAM",
    "release_type": "Single",
    "release_date": "2026-09-04",
    "cover_url": "https://i.scdn.co/image/ab67616d0000b273d4b2c68a17cf68e97e8fa5b4",
@@ -930,7 +1126,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/5cngydxt/polynesia",
    "songshare_url": "https://songshare.com/track/5cngydxt",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "5cngydxt"
+   ]
   },
   {
    "label": "Colorize",
@@ -943,7 +1143,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/kp30rdnw/give-up-the-ghost",
    "songshare_url": "https://songshare.com/track/kp30rdnw",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "kp30rdnw"
+   ]
   },
   {
    "label": "Colorize",
@@ -956,7 +1160,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/c6842ahy/those-who-danced",
    "songshare_url": "https://songshare.com/track/c6842ahy",
-   "track_count": 2
+   "track_count": 2,
+   "album_id": null,
+   "track_ids": [
+    "c6842ahy"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -969,7 +1177,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/z4nxdt2i/close-to-me",
    "songshare_url": "https://songshare.com/track/z4nxdt2i",
-   "track_count": 2
+   "track_count": 2,
+   "album_id": null,
+   "track_ids": [
+    "z4nxdt2i"
+   ]
   },
   {
    "label": "Colorize",
@@ -982,7 +1194,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/mnhyr3qc/roots-il-lo-remix",
    "songshare_url": "https://songshare.com/track/mnhyr3qc",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "mnhyr3qc"
+   ]
   },
   {
    "label": "Enhanced Recordings",
@@ -995,12 +1211,16 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/kwvbs98u/i-can-t-breathe",
    "songshare_url": "https://songshare.com/track/kwvbs98u",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "kwvbs98u"
+   ]
   },
   {
    "label": "Enhanced Progressive",
    "title": "Sirocco",
-   "artists": "Bolier & S\u00d8NIN",
+   "artists": "Bolier & SØNIN",
    "release_type": "Single",
    "release_date": "2026-08-28",
    "cover_url": "https://i.scdn.co/image/ab67616d0000b2738cafa342bb226d951b1ff329",
@@ -1008,12 +1228,16 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/hr71btae/sirocco",
    "songshare_url": "https://songshare.com/track/hr71btae",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "hr71btae"
+   ]
   },
   {
    "label": "Colorize",
    "title": "Constellations",
-   "artists": "Mees Salom\u00e9 & Linney",
+   "artists": "Mees Salomé & Linney",
    "release_type": "Single",
    "release_date": "2026-08-28",
    "cover_url": "https://i.scdn.co/image/ab67616d0000b27300e9edde2303724defe21514",
@@ -1021,7 +1245,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/vynuoa0p/constellations",
    "songshare_url": "https://songshare.com/track/vynuoa0p",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "vynuoa0p"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -1034,7 +1262,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/73s1brli/lola",
    "songshare_url": "https://songshare.com/track/73s1brli",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "73s1brli"
+   ]
   },
   {
    "label": "Colorize",
@@ -1047,7 +1279,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/r1ujbipv/shadows",
    "songshare_url": "https://songshare.com/track/r1ujbipv",
-   "track_count": 2
+   "track_count": 2,
+   "album_id": null,
+   "track_ids": [
+    "r1ujbipv"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -1060,7 +1296,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/v7d1rsxm/epiphany-lanes",
    "songshare_url": "https://songshare.com/track/v7d1rsxm",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "v7d1rsxm"
+   ]
   },
   {
    "label": "Colorize",
@@ -1073,12 +1313,16 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/k5vopu7r/heartbeat-estiva-remix",
    "songshare_url": "https://songshare.com/track/k5vopu7r",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "k5vopu7r"
+   ]
   },
   {
    "label": "Enhanced Recordings",
    "title": "I'm On My Way",
-   "artists": "Elmar & anam\u0113",
+   "artists": "Elmar & anamē",
    "release_type": "Single",
    "release_date": "2026-08-21",
    "cover_url": "https://i.scdn.co/image/ab67616d0000b27333caefb2fdd0ebff957309da",
@@ -1086,7 +1330,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/ym2w96no/i-m-on-my-way",
    "songshare_url": "https://songshare.com/track/ym2w96no",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "ym2w96no"
+   ]
   },
   {
    "label": "Enhanced Progressive",
@@ -1099,7 +1347,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/ntgxmpvd/fundamentals",
    "songshare_url": "https://songshare.com/track/ntgxmpvd",
-   "track_count": 2
+   "track_count": 2,
+   "album_id": null,
+   "track_ids": [
+    "ntgxmpvd"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -1112,7 +1364,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/7whiyl23/let-me",
    "songshare_url": "https://songshare.com/track/7whiyl23",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "7whiyl23"
+   ]
   },
   {
    "label": "Enhanced Recordings",
@@ -1125,7 +1381,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/17urm4jd/thinking-of-u",
    "songshare_url": "https://songshare.com/track/17urm4jd",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "17urm4jd"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -1138,7 +1398,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/grofa6q7/cool-kids",
    "songshare_url": "https://songshare.com/track/grofa6q7",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "grofa6q7"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -1151,12 +1415,16 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/qjwsmphv/better-than-nothing",
    "songshare_url": "https://songshare.com/track/qjwsmphv",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "qjwsmphv"
+   ]
   },
   {
    "label": "Enhanced Recordings",
    "title": "Playa / Somebody",
-   "artists": "L\u00f8rean",
+   "artists": "Lørean",
    "release_type": "EP",
    "release_date": "2026-08-07",
    "cover_url": "https://i.scdn.co/image/ab67616d0000b2734cdf69332bd5843d1111a2a3",
@@ -1164,12 +1432,16 @@
    "spotify_url": "https://open.spotify.com/album/2YXr8pnbDjQWz8gEpwLypG",
    "songstats_url": "https://songstats.com/track/thefd84u/playa",
    "songshare_url": "https://songshare.com/track/thefd84u",
-   "track_count": 2
+   "track_count": 2,
+   "album_id": null,
+   "track_ids": [
+    "thefd84u"
+   ]
   },
   {
    "label": "Enhanced Progressive",
    "title": "Ibiza Sunset",
-   "artists": "DJ C\u00d8SMIC DREAM",
+   "artists": "DJ CØSMIC DREAM",
    "release_type": "Single",
    "release_date": "2026-08-07",
    "cover_url": "https://i.scdn.co/image/ab67616d0000b2737e0ad8e103ea53f900553fe5",
@@ -1177,7 +1449,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/e2ipvhz3/ibiza-sunset",
    "songshare_url": "https://songshare.com/track/e2ipvhz3",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "e2ipvhz3"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -1190,7 +1466,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/zm3dbe6k/permanente",
    "songshare_url": "https://songshare.com/track/zm3dbe6k",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "zm3dbe6k"
+   ]
   },
   {
    "label": "Enhanced Recordings",
@@ -1203,12 +1483,16 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/tsz4aw0f/focus",
    "songshare_url": "https://songshare.com/track/tsz4aw0f",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "tsz4aw0f"
+   ]
   },
   {
    "label": "Enhanced Progressive",
    "title": "Tell Me Again",
-   "artists": "S\u00d8NIN, Anastasia & flowanastasia",
+   "artists": "SØNIN, Anastasia & flowanastasia",
    "release_type": "Single",
    "release_date": "2026-07-31",
    "cover_url": "https://i.scdn.co/image/ab67616d0000b27399d789771641f40f6c699c90",
@@ -1216,7 +1500,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/1ri8nk4b/tell-me-again",
    "songshare_url": "https://songshare.com/track/1ri8nk4b",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "1ri8nk4b"
+   ]
   },
   {
    "label": "Enhanced Recordings",
@@ -1229,7 +1517,11 @@
    "spotify_url": "https://open.spotify.com/album/0gZku9jgxUsWqDbjsLiNd0",
    "songstats_url": "https://songstats.com/track/bmkfigp1/high-hopes-steerner-remix",
    "songshare_url": "https://songshare.com/track/bmkfigp1",
-   "track_count": 5
+   "track_count": 5,
+   "album_id": null,
+   "track_ids": [
+    "bmkfigp1"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -1242,12 +1534,16 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/1neflgai/solace",
    "songshare_url": "https://songshare.com/track/1neflgai",
-   "track_count": 2
+   "track_count": 2,
+   "album_id": null,
+   "track_ids": [
+    "1neflgai"
+   ]
   },
   {
    "label": "Enhanced Recordings",
    "title": "Sirens",
-   "artists": "anam\u0113 & Emelie Hollow",
+   "artists": "anamē & Emelie Hollow",
    "release_type": "Single",
    "release_date": "2026-07-24",
    "cover_url": "https://i.scdn.co/image/ab67616d0000b2736bb1103aabd02db7a74ac606",
@@ -1255,7 +1551,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/16hdmecs/sirens",
    "songshare_url": "https://songshare.com/track/16hdmecs",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "16hdmecs"
+   ]
   },
   {
    "label": "Enhanced Progressive",
@@ -1268,7 +1568,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/hgmkiujf/all-my-life",
    "songshare_url": "https://songshare.com/track/hgmkiujf",
-   "track_count": 2
+   "track_count": 2,
+   "album_id": null,
+   "track_ids": [
+    "hgmkiujf"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -1281,7 +1585,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/sk047hz8/better-this-way",
    "songshare_url": "https://songshare.com/track/sk047hz8",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "sk047hz8"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -1294,7 +1602,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/1ap3isuq/slow",
    "songshare_url": "https://songshare.com/track/1ap3isuq",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "1ap3isuq"
+   ]
   },
   {
    "label": "Shapes Of Solitude",
@@ -1307,7 +1619,9 @@
    "spotify_url": null,
    "songstats_url": null,
    "songshare_url": null,
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": []
   },
   {
    "label": "Enhanced Recordings",
@@ -1320,7 +1634,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/092dyqik/healing",
    "songshare_url": "https://songshare.com/track/092dyqik",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "092dyqik"
+   ]
   },
   {
    "label": "Enhanced Progressive",
@@ -1333,7 +1651,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/0k7n5wzx/believe-abgt687",
    "songshare_url": "https://songshare.com/track/0k7n5wzx",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "0k7n5wzx"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -1346,7 +1668,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/n2tpua5s/faces",
    "songshare_url": "https://songshare.com/track/n2tpua5s",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "n2tpua5s"
+   ]
   },
   {
    "label": "Enhanced Recordings",
@@ -1359,7 +1685,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/fpog3nue/high-hopes",
    "songshare_url": "https://songshare.com/track/fpog3nue",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "fpog3nue"
+   ]
   },
   {
    "label": "Enhanced Progressive",
@@ -1372,7 +1702,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/apgkryt9/walk-away",
    "songshare_url": "https://songshare.com/track/apgkryt9",
-   "track_count": 2
+   "track_count": 2,
+   "album_id": null,
+   "track_ids": [
+    "apgkryt9"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -1385,7 +1719,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/tgi506qd/unholy",
    "songshare_url": "https://songshare.com/track/tgi506qd",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "tgi506qd"
+   ]
   },
   {
    "label": "Enhanced Recordings",
@@ -1398,12 +1736,16 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/a4jcdy8k/something-real",
    "songshare_url": "https://songshare.com/track/a4jcdy8k",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "a4jcdy8k"
+   ]
   },
   {
    "label": "Enhanced Progressive",
    "title": "Dreamin'",
-   "artists": "S\u00d8NIN",
+   "artists": "SØNIN",
    "release_type": "Single",
    "release_date": "2026-07-03",
    "cover_url": "https://i.scdn.co/image/ab67616d0000b2737cb64bccd5dcd82f98fca29d",
@@ -1411,7 +1753,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/xgd0a95w/dreamin",
    "songshare_url": "https://songshare.com/track/xgd0a95w",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "xgd0a95w"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -1424,12 +1770,16 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/vlp9az5x/vestige",
    "songshare_url": "https://songshare.com/track/vlp9az5x",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "vlp9az5x"
+   ]
   },
   {
    "label": "Enhanced Recordings",
    "title": "Only One",
-   "artists": "L\u00f8rean & Tores_flat",
+   "artists": "Lørean & Tores_flat",
    "release_type": "Single",
    "release_date": "2026-06-26",
    "cover_url": "https://i.scdn.co/image/ab67616d0000b273ac1e2e839488fedf4346f2ba",
@@ -1437,7 +1787,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/t1kvyfjb/only-one",
    "songshare_url": "https://songshare.com/track/t1kvyfjb",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "t1kvyfjb"
+   ]
   },
   {
    "label": "Enhanced Progressive",
@@ -1450,7 +1804,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/ve7p5di6/set-me-free",
    "songshare_url": "https://songshare.com/track/ve7p5di6",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "ve7p5di6"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -1463,7 +1821,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/acumt9qg/when-i-miss-you",
    "songshare_url": "https://songshare.com/track/acumt9qg",
-   "track_count": 2
+   "track_count": 2,
+   "album_id": null,
+   "track_ids": [
+    "acumt9qg"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -1476,7 +1838,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/w21lp97e/meant-to-be",
    "songshare_url": "https://songshare.com/track/w21lp97e",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "w21lp97e"
+   ]
   },
   {
    "label": "Enhanced Recordings",
@@ -1489,7 +1855,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/u9pg85on/sacrifice-lonely-in-the-rain-remix",
    "songshare_url": "https://songshare.com/track/u9pg85on",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "u9pg85on"
+   ]
   },
   {
    "label": "Enhanced Recordings",
@@ -1502,7 +1872,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/6edac98q/sacrifice-emrys-remix",
    "songshare_url": "https://songshare.com/track/6edac98q",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "6edac98q"
+   ]
   },
   {
    "label": "Enhanced Recordings",
@@ -1515,7 +1889,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/0d9gu5o3/sacrifice-matrix-futurebound-remix",
    "songshare_url": "https://songshare.com/track/0d9gu5o3",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "0d9gu5o3"
+   ]
   },
   {
    "label": "Enhanced Recordings",
@@ -1528,7 +1906,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/q0s84tun/sacrifice-lindsey-stirling-remix",
    "songshare_url": "https://songshare.com/track/q0s84tun",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "q0s84tun"
+   ]
   },
   {
    "label": "Enhanced Recordings",
@@ -1541,7 +1923,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/d8u3mwiy/the-otherside",
    "songshare_url": "https://songshare.com/track/d8u3mwiy",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "d8u3mwiy"
+   ]
   },
   {
    "label": "Enhanced Progressive",
@@ -1554,7 +1940,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/pkmhe325/set-me-free",
    "songshare_url": "https://songshare.com/track/pkmhe325",
-   "track_count": 2
+   "track_count": 2,
+   "album_id": null,
+   "track_ids": [
+    "pkmhe325"
+   ]
   },
   {
    "label": "Enhanced Progressive",
@@ -1567,7 +1957,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/1r3sa05d/coincide",
    "songshare_url": "https://songshare.com/track/1r3sa05d",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "1r3sa05d"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -1580,7 +1974,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/bthuacy2/i-know",
    "songshare_url": "https://songshare.com/track/bthuacy2",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "bthuacy2"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -1593,7 +1991,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/730gz1ux/rivers-of-joy",
    "songshare_url": "https://songshare.com/track/730gz1ux",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "730gz1ux"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -1606,7 +2008,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/216wqjt7/mind",
    "songshare_url": "https://songshare.com/track/216wqjt7",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "216wqjt7"
+   ]
   },
   {
    "label": "Enhanced Progressive",
@@ -1619,7 +2025,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/2f4kcj8u/flat-out",
    "songshare_url": "https://songshare.com/track/2f4kcj8u",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "2f4kcj8u"
+   ]
   },
   {
    "label": "Enhanced Recordings",
@@ -1632,12 +2042,16 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/8gdhwe4o/when-i-fall",
    "songshare_url": "https://songshare.com/track/8gdhwe4o",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "8gdhwe4o"
+   ]
   },
   {
    "label": "Enhanced Progressive",
    "title": "Next To You",
-   "artists": "S\u00d8NIN",
+   "artists": "SØNIN",
    "release_type": "Single",
    "release_date": "2026-06-05",
    "cover_url": "https://i.scdn.co/image/ab67616d0000b2731fd3fc28040167790ed729cf",
@@ -1645,7 +2059,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/l6gqjnwm/next-to-you",
    "songshare_url": "https://songshare.com/track/l6gqjnwm",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "l6gqjnwm"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -1658,7 +2076,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/u56ynatv/i-need-you",
    "songshare_url": "https://songshare.com/track/u56ynatv",
-   "track_count": 2
+   "track_count": 2,
+   "album_id": null,
+   "track_ids": [
+    "u56ynatv"
+   ]
   },
   {
    "label": "Enhanced Progressive",
@@ -1671,7 +2093,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/lfd6eh74/talk",
    "songshare_url": "https://songshare.com/track/lfd6eh74",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "lfd6eh74"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -1684,7 +2110,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/7v1p04wj/youth",
    "songshare_url": "https://songshare.com/track/7v1p04wj",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "7v1p04wj"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -1697,7 +2127,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/c6k5hdqw/stay",
    "songshare_url": "https://songshare.com/track/c6k5hdqw",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "c6k5hdqw"
+   ]
   },
   {
    "label": "Enhanced Recordings",
@@ -1710,7 +2144,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/gfkz47u5/the-creator",
    "songshare_url": "https://songshare.com/track/gfkz47u5",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "gfkz47u5"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -1723,7 +2161,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/eowqpfnj/sun",
    "songshare_url": "https://songshare.com/track/eowqpfnj",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "eowqpfnj"
+   ]
   },
   {
    "label": "Enhanced Progressive",
@@ -1736,7 +2178,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/2z9ctjvl/let-me-take-you",
    "songshare_url": "https://songshare.com/track/2z9ctjvl",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "2z9ctjvl"
+   ]
   },
   {
    "label": "Enhanced Progressive",
@@ -1749,7 +2195,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/d7w1vcrh/eterna",
    "songshare_url": "https://songshare.com/track/d7w1vcrh",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "d7w1vcrh"
+   ]
   },
   {
    "label": "Enhanced Progressive",
@@ -1762,7 +2212,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/fbw6tn1q/in-my-soul-fyh495",
    "songshare_url": "https://songshare.com/track/fbw6tn1q",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "fbw6tn1q"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -1775,12 +2229,16 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/yps94gx3/you",
    "songshare_url": "https://songshare.com/track/yps94gx3",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "yps94gx3"
+   ]
   },
   {
    "label": "Enhanced Recordings",
    "title": "Flow / Lockdown",
-   "artists": "L\u00f8rean",
+   "artists": "Lørean",
    "release_type": "EP",
    "release_date": "2026-05-08",
    "cover_url": "https://i.scdn.co/image/ab67616d0000b2732342982f9d221a228ec0f721",
@@ -1788,7 +2246,11 @@
    "spotify_url": "https://open.spotify.com/album/0dDa745GKOXBwaYy05I7ua",
    "songstats_url": "https://songstats.com/track/v2ga1scl/flow",
    "songshare_url": "https://songshare.com/track/v2ga1scl",
-   "track_count": 3
+   "track_count": 3,
+   "album_id": null,
+   "track_ids": [
+    "v2ga1scl"
+   ]
   },
   {
    "label": "Enhanced Progressive",
@@ -1801,12 +2263,16 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/qoar058w/in-my-soul",
    "songshare_url": "https://songshare.com/track/qoar058w",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "qoar058w"
+   ]
   },
   {
    "label": "Enhanced Chill",
    "title": "Aura",
-   "artists": "\u00e1bryn",
+   "artists": "ábryn",
    "release_type": "Single",
    "release_date": "2026-05-08",
    "cover_url": "https://i.scdn.co/image/ab67616d0000b273b8326cebae42407fd35b4b75",
@@ -1814,7 +2280,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/prgzhutm/aura",
    "songshare_url": "https://songshare.com/track/prgzhutm",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "prgzhutm"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -1827,7 +2297,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/nibds4wg/november-sun",
    "songshare_url": "https://songshare.com/track/nibds4wg",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "nibds4wg"
+   ]
   },
   {
    "label": "Enhanced Recordings",
@@ -1840,7 +2314,11 @@
    "spotify_url": "https://open.spotify.com/album/5SqzQJgYygGTr0VNifNEgz",
    "songstats_url": "https://songstats.com/track/mxvyq0p9/walk-away-ekko-sidetrack-remix",
    "songshare_url": "https://songshare.com/track/mxvyq0p9",
-   "track_count": 4
+   "track_count": 4,
+   "album_id": null,
+   "track_ids": [
+    "mxvyq0p9"
+   ]
   },
   {
    "label": "Enhanced Progressive",
@@ -1853,7 +2331,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/4hfylgeq/endlessly",
    "songshare_url": "https://songshare.com/track/4hfylgeq",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "4hfylgeq"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -1866,7 +2348,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/uvlzx34q/intertwined",
    "songshare_url": "https://songshare.com/track/uvlzx34q",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "uvlzx34q"
+   ]
   },
   {
    "label": "Enhanced Progressive",
@@ -1879,7 +2365,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/1ki0vy7b/open-skies",
    "songshare_url": "https://songshare.com/track/1ki0vy7b",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "1ki0vy7b"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -1892,7 +2382,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/sibz2f8k/broken-lines",
    "songshare_url": "https://songshare.com/track/sibz2f8k",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "sibz2f8k"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -1905,7 +2399,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/8y6ca4r1/no-good-for-me",
    "songshare_url": "https://songshare.com/track/8y6ca4r1",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "8y6ca4r1"
+   ]
   },
   {
    "label": "Enhanced Progressive",
@@ -1918,7 +2416,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/m6anovwg/la-musica",
    "songshare_url": "https://songshare.com/track/m6anovwg",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "m6anovwg"
+   ]
   },
   {
    "label": "Enhanced Chill",
@@ -1931,7 +2433,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/x25zgifk/over-me",
    "songshare_url": "https://songshare.com/track/x25zgifk",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "x25zgifk"
+   ]
   },
   {
    "label": "Enhanced Progressive",
@@ -1944,7 +2450,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/t91chw4e/beyond-the-light",
    "songshare_url": "https://songshare.com/track/t91chw4e",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "t91chw4e"
+   ]
   },
   {
    "label": "Enhanced Progressive",
@@ -1957,7 +2467,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/wjn8oqri/head-spin",
    "songshare_url": "https://songshare.com/track/wjn8oqri",
-   "track_count": 2
+   "track_count": 2,
+   "album_id": null,
+   "track_ids": [
+    "wjn8oqri"
+   ]
   },
   {
    "label": "Enhanced Progressive",
@@ -1970,7 +2484,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/r5v8cwh0/feel-the-light",
    "songshare_url": "https://songshare.com/track/r5v8cwh0",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "r5v8cwh0"
+   ]
   },
   {
    "label": "Enhanced Progressive",
@@ -1983,7 +2501,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/tbo1ha67/apocalypse",
    "songshare_url": "https://songshare.com/track/tbo1ha67",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "tbo1ha67"
+   ]
   },
   {
    "label": "Enhanced Progressive",
@@ -1996,7 +2518,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/jevishy7/beamer",
    "songshare_url": "https://songshare.com/track/jevishy7",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "jevishy7"
+   ]
   },
   {
    "label": "Enhanced Progressive",
@@ -2009,7 +2535,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/q1rgf5mt/fade-away",
    "songshare_url": "https://songshare.com/track/q1rgf5mt",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "q1rgf5mt"
+   ]
   },
   {
    "label": "Enhanced Progressive",
@@ -2022,7 +2552,11 @@
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/317zlt2y/vanta",
    "songshare_url": "https://songshare.com/track/317zlt2y",
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "317zlt2y"
+   ]
   },
   {
    "label": "Shapes Of Solitude",
@@ -2035,7 +2569,9 @@
    "spotify_url": null,
    "songstats_url": null,
    "songshare_url": null,
-   "track_count": 1
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": []
   }
  ]
 }
