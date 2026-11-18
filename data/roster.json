@@ -16,6 +16,19 @@
    "verified": true
   },
   {
+   "name": "Tritonal",
+   "label": "Enhanced Recordings",
+   "labels": [
+    "Enhanced Recordings"
+   ],
+   "release_count": 4,
+   "cm_id": null,
+   "songstats_artist_id": "75fu2leg",
+   "spotify_url": null,
+   "image_url": "img/artist_tritonal.jpg",
+   "verified": true
+  },
+  {
    "name": "Icarus",
    "label": "Colorize",
    "labels": [
