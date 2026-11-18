@@ -50,15 +50,16 @@ document.body.dataset.h='D';
 const $=id=>document.getElementById(id);
 const fmt=d=>new Date(d).toLocaleDateString('en-GB',{day:'numeric',month:'short',year:'numeric'});
 const esc=s=>String(s).replace(/[&<>"]/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[c]));
-let R=[],F='',N=40;
+let R=[],F='',N=1000;
 function draw(){const L=R.filter(r=>!F||r.labels.includes(F)),sh=L.slice(0,N);
 $('rels').innerHTML=sh.map(r=>{const u=r.spotify_url,t=u?'a':'div';return `<${t} ${u?'href="'+esc(u)+'" target="_blank" rel="noopener"':''} class="card">${r.image_url?`<img class="img sq" loading="lazy" src="${esc(r.image_url)}" alt="${esc(r.name)}">`:`<div class="ph">PHOTO</div>`}<div class="t">${esc(r.name)}</div><div class="s">${esc(r.labels.join(' · '))}</div></${t}>`}).join('');
 $('more').style.display=L.length>N?'inline-block':'none'}
 $('more').onclick=()=>{N+=40;draw()};
 (async()=>{try{const r=await (await fetch('data/roster.json',{cache:'no-store'})).json();let H=[];try{H=((await (await fetch('data/roster_hidden.json',{cache:'no-store'})).json()).hidden_names||[]).map(x=>x.toLowerCase())}catch(e){}
-R=r.artists.filter(x=>!H.includes(x.name.toLowerCase()));
+R=r.artists.filter(x=>!H.includes(x.name.toLowerCase()));let P=[];try{P=((await (await fetch('data/roster_pinned.json',{cache:'no-store'})).json()).pinned_names||[]).map(x=>x.toLowerCase())}catch(e){}
+const pi=x=>{const i=P.indexOf(x.name.toLowerCase());return i<0?1e9:i};R=R.map((x,i)=>[x,i]).sort((a,b)=>pi(a[0])-pi(b[0])||a[1]-b[1]).map(x=>x[0]);
 const L=[...new Set(R.flatMap(x=>x.labels))];$('chips').innerHTML=['All',...L].map(l=>`<button class="chip${l==='All'?' on':''}" data-l="${l==='All'?'':esc(l)}">${esc(l)}</button>`).join('');
-$('chips').onclick=e=>{const b=e.target.closest('.chip');if(!b)return;document.querySelectorAll('.chip').forEach(c=>c.classList.toggle('on',c===b));F=b.dataset.l;N=40;draw()};
+$('chips').onclick=e=>{const b=e.target.closest('.chip');if(!b)return;document.querySelectorAll('.chip').forEach(c=>c.classList.toggle('on',c===b));F=b.dataset.l;draw()};
 draw();($('status')||{}).textContent='Test build · '+R.length+' artists, data generated '+r.generated_at}
 catch(e){$('rels').innerHTML='<div class="none">The roster is on its way.</div>'}})();
 </script></body></html>
