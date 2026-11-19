@@ -648,40 +648,6 @@
   },
   {
    "label": "Colorize",
-   "title": "Over & Over",
-   "artists": "Guy Didden & Jack Willard",
-   "release_type": "Single",
-   "release_date": "2026-10-02",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b273e5d8ca6cb911f20e307de665",
-   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b273e5d8ca6cb911f20e307de665",
-   "spotify_url": "https://open.spotify.com/album/3mkQoUm5fDXBq4a4Ohaj4r",
-   "songstats_url": "https://songstats.com/track/ixfm63cl/over-over",
-   "songshare_url": "https://songshare.com/track/ixfm63cl",
-   "track_count": 1,
-   "album_id": null,
-   "track_ids": [
-    "ixfm63cl"
-   ]
-  },
-  {
-   "label": "Colorize",
-   "title": "Call To Me",
-   "artists": "Jack Willard & MØØNE",
-   "release_type": "Single",
-   "release_date": "2026-10-02",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b273e5d8ca6cb911f20e307de665",
-   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b273e5d8ca6cb911f20e307de665",
-   "spotify_url": null,
-   "songstats_url": "https://songstats.com/track/j826hqe3/call-to-me",
-   "songshare_url": "https://songshare.com/track/j826hqe3",
-   "track_count": 1,
-   "album_id": null,
-   "track_ids": [
-    "j826hqe3"
-   ]
-  },
-  {
-   "label": "Colorize",
    "title": "Time",
    "artists": "Jack Willard",
    "release_type": "EP",
@@ -697,23 +663,6 @@
     "6i05rf4h",
     "f7ius8w9",
     "jhuz3pwa"
-   ]
-  },
-  {
-   "label": "Colorize",
-   "title": "Slow Burn",
-   "artists": "Josefina & Jack Willard",
-   "release_type": "Single",
-   "release_date": "2026-10-02",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b273e5d8ca6cb911f20e307de665",
-   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b273e5d8ca6cb911f20e307de665",
-   "spotify_url": null,
-   "songstats_url": "https://songstats.com/track/31d9bsag/slow-burn",
-   "songshare_url": "https://songshare.com/track/31d9bsag",
-   "track_count": 1,
-   "album_id": null,
-   "track_ids": [
-    "31d9bsag"
    ]
   },
   {
