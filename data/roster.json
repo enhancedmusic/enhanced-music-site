@@ -1,6 +1,6 @@
 {
  "generated_at": "2026-11-18T20:58:26+00:00",
- "rule": "credited (lead, featured or remixer) on >=3 distinct releases across the five labels in the last 5 years; source: Songstats label catalogs (photos and IDs from Songstats); strays hidden via roster_hidden.json; pinned via roster_pinned.json; order: Spotify monthly listeners (Chartmetric, 2026-11-19) descending, used only for sorting; YORK unverified, placed last",
+ "rule": "credited (lead, featured or remixer) on >=3 distinct releases across the five labels in the last 5 years; source: Songstats label catalogs (photos and IDs from Songstats); strays hidden via roster_hidden.json; pinned via roster_pinned.json; order: Spotify monthly listeners (Chartmetric, 2026-11-19) descending, used only for sorting; YORK confirmed by Jack (Chartmetric 1,354,396)",
  "artists": [
   {
    "name": "Audien",
@@ -14,6 +14,20 @@
    "spotify_url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE",
    "image_url": "img/artist_3717.jpg",
    "verified": true
+  },
+  {
+   "name": "YORK",
+   "label": "Enhanced Recordings",
+   "labels": [
+    "Enhanced Recordings"
+   ],
+   "release_count": 1,
+   "cm_id": null,
+   "songstats_artist_id": "xfik578v",
+   "spotify_url": null,
+   "image_url": "img/artist_york.jpg",
+   "verified": false,
+   "songshare_url": "https://songshare.com/artist/xfik578v"
   },
   {
    "name": "Tritonal",
@@ -873,20 +887,6 @@
    "image_url": "img/artist_476375.jpg",
    "verified": false,
    "songshare_url": "https://songshare.com/artist/ejmbyfq4"
-  },
-  {
-   "name": "YORK",
-   "label": "Enhanced Recordings",
-   "labels": [
-    "Enhanced Recordings"
-   ],
-   "release_count": 1,
-   "cm_id": null,
-   "songstats_artist_id": "xfik578v",
-   "spotify_url": null,
-   "image_url": "img/artist_york.jpg",
-   "verified": false,
-   "songshare_url": "https://songshare.com/artist/xfik578v"
   }
  ]
 }
