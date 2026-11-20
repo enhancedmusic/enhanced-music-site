@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-19T00:39:08+00:00",
- "today": "2026-11-19",
+ "generated_at": "2026-11-20T00:39:04+00:00",
+ "today": "2026-11-20",
  "labels": [
   "Enhanced Recordings",
   "Enhanced Progressive",
@@ -9,6 +9,23 @@
   "Shapes Of Solitude"
  ],
  "releases": [
+  {
+   "label": "Colorize",
+   "title": "Nothing Less",
+   "artists": "Hessian & ALLKNIGHT",
+   "release_type": "Single",
+   "release_date": "2026-11-20",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b27355b6878fe977c0d442428a4f",
+   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b27355b6878fe977c0d442428a4f",
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/vq7n1jpt/nothing-less",
+   "songshare_url": "https://songshare.com/track/vq7n1jpt",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "vq7n1jpt"
+   ]
+  },
   {
    "label": "Colorize",
    "title": "Insight Out (Remixes)",
