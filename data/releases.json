@@ -682,21 +682,22 @@
   },
   {
    "label": "Colorize",
-   "title": "Time",
+   "title": "Echoes",
    "artists": "Jack Willard",
-   "release_type": "EP",
+   "release_type": "Album",
    "release_date": "2026-10-02",
    "cover_url": "https://i.scdn.co/image/ab67616d0000b273e5d8ca6cb911f20e307de665",
    "cover_source_url": "https://i.scdn.co/image/ab67616d0000b273e5d8ca6cb911f20e307de665",
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/6i05rf4h/time",
    "songshare_url": "https://songshare.com/track/6i05rf4h",
-   "track_count": 3,
+   "track_count": 11,
    "album_id": null,
    "track_ids": [
     "6i05rf4h",
     "f7ius8w9",
-    "jhuz3pwa"
+    "jhuz3pwa",
+    "ixfm63cl"
    ]
   },
   {
