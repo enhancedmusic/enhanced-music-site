@@ -10,110 +10,6 @@
  ],
  "releases": [
   {
-   "label": "Enhanced Recordings",
-   "title": "True",
-   "artists": "Philip Sheppard, Sandrayati & anamē",
-   "release_type": "Single",
-   "release_date": "2026-11-20",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b273e30178da0e2bce1f450fdf4e",
-   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b273e30178da0e2bce1f450fdf4e",
-   "spotify_url": null,
-   "songstats_url": "https://songstats.com/track/l4gubqef/true",
-   "songshare_url": "https://songshare.com/track/l4gubqef",
-   "track_count": 1,
-   "album_id": null,
-   "track_ids": [
-    "l4gubqef"
-   ]
-  },
-  {
-   "label": "Enhanced Recordings",
-   "title": "Trapped Here / Landmine Pt. 1 / Landmine Pt. 2",
-   "artists": "Sandrayati & anamē",
-   "release_type": "EP",
-   "release_date": "2026-11-20",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b273b70e8212d294ed43dc754335",
-   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b273b70e8212d294ed43dc754335",
-   "spotify_url": null,
-   "songstats_url": "https://songstats.com/track/s6v4jyuh/landmine-pt-2",
-   "songshare_url": "https://songshare.com/track/s6v4jyuh",
-   "track_count": 3,
-   "album_id": null,
-   "track_ids": [
-    "s6v4jyuh",
-    "2ax9lw30",
-    "wprex4i2"
-   ]
-  },
-  {
-   "label": "Enhanced Recordings",
-   "title": "Wouldn't Let Me",
-   "artists": "Philip Sheppard & anamē",
-   "release_type": "Single",
-   "release_date": "2026-11-20",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b27303bc73b0725e560d66426280",
-   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b27303bc73b0725e560d66426280",
-   "spotify_url": null,
-   "songstats_url": "https://songstats.com/track/zkw6i72b/wouldn-t-let-me",
-   "songshare_url": "https://songshare.com/track/zkw6i72b",
-   "track_count": 1,
-   "album_id": null,
-   "track_ids": [
-    "zkw6i72b"
-   ]
-  },
-  {
-   "label": "Enhanced Recordings",
-   "title": "Out At Sea",
-   "artists": "anamē & Tasha Josephine",
-   "release_type": "Single",
-   "release_date": "2026-11-20",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b273ed691fa2236ca40f1310bcf6",
-   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b273ed691fa2236ca40f1310bcf6",
-   "spotify_url": null,
-   "songstats_url": "https://songstats.com/track/sg3l7moi/out-at-sea",
-   "songshare_url": "https://songshare.com/track/sg3l7moi",
-   "track_count": 1,
-   "album_id": null,
-   "track_ids": [
-    "sg3l7moi"
-   ]
-  },
-  {
-   "label": "Enhanced Recordings",
-   "title": "Daydreaming",
-   "artists": "Bri Zoli & anamē",
-   "release_type": "Single",
-   "release_date": "2026-11-20",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b273ca174c57aef6c0a4415ac564",
-   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b273ca174c57aef6c0a4415ac564",
-   "spotify_url": null,
-   "songstats_url": "https://songstats.com/track/gzwauoxt/daydreaming",
-   "songshare_url": "https://songshare.com/track/gzwauoxt",
-   "track_count": 1,
-   "album_id": null,
-   "track_ids": [
-    "gzwauoxt"
-   ]
-  },
-  {
-   "label": "Enhanced Recordings",
-   "title": "I Just Want To",
-   "artists": "Elmar & anamē",
-   "release_type": "Single",
-   "release_date": "2026-11-20",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b2732de8083b6703317ad15eda29",
-   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b2732de8083b6703317ad15eda29",
-   "spotify_url": null,
-   "songstats_url": "https://songstats.com/track/ctj0l5u6/i-just-want-to",
-   "songshare_url": "https://songshare.com/track/ctj0l5u6",
-   "track_count": 1,
-   "album_id": null,
-   "track_ids": [
-    "ctj0l5u6"
-   ]
-  },
-  {
    "label": "Enhanced Progressive",
    "title": "Thoughts Of You",
    "artists": "CIElll",
@@ -2659,6 +2555,30 @@
    "track_count": 1,
    "album_id": null,
    "track_ids": []
+  },
+  {
+   "label": "Enhanced Recordings",
+   "title": "On My Way",
+   "artists": "anamē",
+   "release_type": "Album",
+   "release_date": "2026-11-20",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273e30178da0e2bce1f450fdf4e",
+   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b273e30178da0e2bce1f450fdf4e",
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/l4gubqef/true",
+   "songshare_url": "https://songshare.com/track/l4gubqef",
+   "track_count": 8,
+   "album_id": "pgqtkdzm",
+   "track_ids": [
+    "l4gubqef",
+    "zkw6i72b",
+    "sg3l7moi",
+    "gzwauoxt",
+    "ctj0l5u6",
+    "wprex4i2",
+    "2ax9lw30",
+    "s6v4jyuh"
+   ]
   }
  ]
 }
