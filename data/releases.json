@@ -44,6 +44,30 @@
    ]
   },
   {
+   "label": "Enhanced Recordings",
+   "title": "On My Way",
+   "artists": "anamē",
+   "release_type": "Album",
+   "release_date": "2026-11-20",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273e30178da0e2bce1f450fdf4e",
+   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b273e30178da0e2bce1f450fdf4e",
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/l4gubqef/true",
+   "songshare_url": "https://songshare.com/track/l4gubqef",
+   "track_count": 8,
+   "album_id": "pgqtkdzm",
+   "track_ids": [
+    "l4gubqef",
+    "zkw6i72b",
+    "sg3l7moi",
+    "gzwauoxt",
+    "ctj0l5u6",
+    "wprex4i2",
+    "2ax9lw30",
+    "s6v4jyuh"
+   ]
+  },
+  {
    "label": "Colorize",
    "title": "Insight Out (Remixes)",
    "artists": "PRAANA",
@@ -77,6 +101,24 @@
    "album_id": null,
    "track_ids": [
     "l7pkoxt6"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Śusupti",
+   "artists": "Night Sadhana",
+   "release_type": "EP",
+   "release_date": "2026-11-18",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273442e3e37edd32b1c4472db0d",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/v7bxnt04",
+   "songshare_url": "https://songshare.com/track/v7bxnt04",
+   "track_count": 2,
+   "album_id": null,
+   "track_ids": [
+    "v7bxnt04",
+    "oadw3zx6"
    ]
   },
   {
@@ -148,6 +190,41 @@
    ]
   },
   {
+   "label": "Shapes Of Solitude",
+   "title": "Nirvikalpa",
+   "artists": "PRAANA SHAKTI",
+   "release_type": "EP",
+   "release_date": "2026-11-11",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273d36388b1ebac7b91ea82e75a",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/8n0yrqlj",
+   "songshare_url": "https://songshare.com/track/8n0yrqlj",
+   "track_count": 2,
+   "album_id": null,
+   "track_ids": [
+    "8n0yrqlj",
+    "6a8fwpuy"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Held By Nothingness",
+   "artists": "PRAANA SHAKTI",
+   "release_type": "Single",
+   "release_date": "2026-11-09",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273983fb8c3dc755a10e758a447",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/8fjul9nc",
+   "songshare_url": "https://songshare.com/track/8fjul9nc",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "8fjul9nc"
+   ]
+  },
+  {
    "label": "Enhanced Recordings",
    "title": "Another Eden",
    "artists": "Morgin Madison",
@@ -207,6 +284,23 @@
     "54s2nwjb",
     "3gd9bawv",
     "z0qhj2xo"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "The Softest Somewhere",
+   "artists": "PRAANA SHAKTI",
+   "release_type": "Single",
+   "release_date": "2026-11-06",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273586bbd8fe51d4968f83493ac",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/zfbda361",
+   "songshare_url": "https://songshare.com/track/zfbda361",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "zfbda361"
    ]
   },
   {
@@ -594,6 +688,41 @@
    ]
   },
   {
+   "label": "Shapes Of Solitude",
+   "title": "Orbiting REM",
+   "artists": "PRAANA SHAKTI",
+   "release_type": "Single",
+   "release_date": "2026-10-09",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b2732e6c4ac2f589b205d3ef0eec",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/57gyq3ve",
+   "songshare_url": "https://songshare.com/track/57gyq3ve",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "57gyq3ve"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Waves Of Beauty",
+   "artists": "PRAANA SHAKTI",
+   "release_type": "EP",
+   "release_date": "2026-10-09",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273f4255de3e4f3a4bf88911edd",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/8lw0q9gd",
+   "songshare_url": "https://songshare.com/track/8lw0q9gd",
+   "track_count": 2,
+   "album_id": null,
+   "track_ids": [
+    "8lw0q9gd",
+    "c1fsa9x8"
+   ]
+  },
+  {
    "label": "Colorize",
    "title": "Lifeline",
    "artists": "Falden",
@@ -718,6 +847,24 @@
    ]
   },
   {
+   "label": "Shapes Of Solitude",
+   "title": "13th Density",
+   "artists": "Night Sadhana",
+   "release_type": "EP",
+   "release_date": "2026-10-02",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b2739df7b3b40564854f60188896",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/yk0egbo3",
+   "songshare_url": "https://songshare.com/track/yk0egbo3",
+   "track_count": 2,
+   "album_id": null,
+   "track_ids": [
+    "yk0egbo3",
+    "r84lzm73"
+   ]
+  },
+  {
    "label": "Colorize",
    "title": "Black Hole",
    "artists": "L.GU. & Hedara",
@@ -749,6 +896,24 @@
    "album_id": null,
    "track_ids": [
     "md7aj92s"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Layers of Breath",
+   "artists": "stillgrove",
+   "release_type": "EP",
+   "release_date": "2026-09-30",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273eb100ac80ce2fb7012d99274",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/qao5tbvx",
+   "songshare_url": "https://songshare.com/track/qao5tbvx",
+   "track_count": 2,
+   "album_id": null,
+   "track_ids": [
+    "qao5tbvx",
+    "850gwrla"
    ]
   },
   {
@@ -1083,6 +1248,23 @@
    ]
   },
   {
+   "label": "Shapes Of Solitude",
+   "title": "Dawn For The Soul",
+   "artists": "Lotus Moon",
+   "release_type": "Single",
+   "release_date": "2026-09-09",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b2739a2709d81a3739acc7fbcb44",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/srfyu084",
+   "songshare_url": "https://songshare.com/track/srfyu084",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "srfyu084"
+   ]
+  },
+  {
    "label": "Colorize",
    "title": "Deep Chicken",
    "artists": "Astrality & Sound Quelle",
@@ -1355,6 +1537,24 @@
    ]
   },
   {
+   "label": "Shapes Of Solitude",
+   "title": "Lightforms",
+   "artists": "stillgrove",
+   "release_type": "EP",
+   "release_date": "2026-08-19",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b2737edda03e1be6a39d435157e5",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/3vx7y10o",
+   "songshare_url": "https://songshare.com/track/3vx7y10o",
+   "track_count": 2,
+   "album_id": null,
+   "track_ids": [
+    "3vx7y10o",
+    "cwyu8oij"
+   ]
+  },
+  {
    "label": "Enhanced Recordings",
    "title": "Thinking Of U",
    "artists": "Division One (KR), Morgin Madison & HILYTE",
@@ -1406,6 +1606,23 @@
    ]
   },
   {
+   "label": "Shapes Of Solitude",
+   "title": "Before Language",
+   "artists": "PRAANA SHAKTI",
+   "release_type": "Single",
+   "release_date": "2026-08-12",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b2734c1a30e69ca8502c59788d0b",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/f4rmhzep",
+   "songshare_url": "https://songshare.com/track/f4rmhzep",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "f4rmhzep"
+   ]
+  },
+  {
    "label": "Enhanced Recordings",
    "title": "Playa / Somebody",
    "artists": "Lørean",
@@ -1454,6 +1671,23 @@
    "album_id": null,
    "track_ids": [
     "zm3dbe6k"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Equinox",
+   "artists": "Dreamlapse Dimensions",
+   "release_type": "Single",
+   "release_date": "2026-08-05",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b27358e72f6640077269d5f5276e",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/s263ovme",
+   "songshare_url": "https://songshare.com/track/s263ovme",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "s263ovme"
    ]
   },
   {
@@ -1591,21 +1825,6 @@
    "track_ids": [
     "1ap3isuq"
    ]
-  },
-  {
-   "label": "Shapes Of Solitude",
-   "title": "Sense Of Absence",
-   "artists": "Sizmara & Feathervane",
-   "release_type": "Single",
-   "release_date": "2026-07-22",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b273769363896a255a1893d1e026",
-   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b273769363896a255a1893d1e026",
-   "spotify_url": null,
-   "songstats_url": null,
-   "songshare_url": null,
-   "track_count": 1,
-   "album_id": null,
-   "track_ids": []
   },
   {
    "label": "Enhanced Recordings",
@@ -2220,6 +2439,24 @@
    ]
   },
   {
+   "label": "Shapes Of Solitude",
+   "title": "Soma Drift",
+   "artists": "stillgrove",
+   "release_type": "EP",
+   "release_date": "2026-05-13",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b2731b8846fee5c7d5933fd49f6d",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/1vx60wiy",
+   "songshare_url": "https://songshare.com/track/1vx60wiy",
+   "track_count": 2,
+   "album_id": null,
+   "track_ids": [
+    "1vx60wiy",
+    "sorbwh92"
+   ]
+  },
+  {
    "label": "Enhanced Recordings",
    "title": "Flow / Lockdown",
    "artists": "Lørean",
@@ -2544,41 +2781,651 @@
   },
   {
    "label": "Shapes Of Solitude",
+   "title": "Journey Of The Stratosphere",
+   "artists": "Ilyndria",
+   "release_type": "Single",
+   "release_date": "2026-01-14",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b2736eccdbab385f3c6a07324f52",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/d0quyjne",
+   "songshare_url": "https://songshare.com/track/d0quyjne",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "d0quyjne"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "An Open Window",
+   "artists": "PRAANA SHAKTI",
+   "release_type": "EP",
+   "release_date": "2026-01-07",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b27350a242ee24eeb1c3513b2bd6",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/uzxvo03f",
+   "songshare_url": "https://songshare.com/track/uzxvo03f",
+   "track_count": 2,
+   "album_id": null,
+   "track_ids": [
+    "uzxvo03f",
+    "n8slbcho"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Immersion",
+   "artists": "Atlantic Dawn",
+   "release_type": "Single",
+   "release_date": "2025-12-17",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b27396c4d493d735279ecf0648c5",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/7yr3zkiw",
+   "songshare_url": "https://songshare.com/track/7yr3zkiw",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "7yr3zkiw"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Lightworker",
+   "artists": "Dreamlapse Dimensions",
+   "release_type": "Single",
+   "release_date": "2025-12-10",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273b36617e6fbdd6c5e93978617",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/6p2tky8j",
+   "songshare_url": "https://songshare.com/track/6p2tky8j",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "6p2tky8j"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Eternally Generative",
+   "artists": "Maitreya",
+   "release_type": "EP",
+   "release_date": "2025-12-03",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b2730807abf15f1833a434923a3e",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/k348mova",
+   "songshare_url": "https://songshare.com/track/k348mova",
+   "track_count": 2,
+   "album_id": null,
+   "track_ids": [
+    "k348mova",
+    "sg9ik7ou"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Where the Light First Speaks",
+   "artists": "Lotus Moon",
+   "release_type": "Album",
+   "release_date": "2025-11-19",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273c62462665d5247a0e79e8dca",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/cexp17r9",
+   "songshare_url": "https://songshare.com/track/cexp17r9",
+   "track_count": 10,
+   "album_id": null,
+   "track_ids": [
+    "cexp17r9",
+    "kz6htvsc",
+    "pkcvmy86",
+    "bryjdpac",
+    "y0a28mut",
+    "hsvjimgl",
+    "ydjhtkxq",
+    "zr7qkoeh",
+    "hlekdx3j",
+    "5u2bsnpd"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Plumes",
+   "artists": "Feathervane",
+   "release_type": "EP",
+   "release_date": "2025-11-05",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b2732b61122d49967dc9e3cbd7b6",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/tgde9l6y",
+   "songshare_url": "https://songshare.com/track/tgde9l6y",
+   "track_count": 2,
+   "album_id": null,
+   "track_ids": [
+    "tgde9l6y",
+    "746vmhzl"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Moonspell",
+   "artists": "Dreamlapse Dimensions",
+   "release_type": "Album",
+   "release_date": "2025-10-15",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b2730b5f8addb392061b307ed2e3",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/i9bwq5v1",
+   "songshare_url": "https://songshare.com/track/i9bwq5v1",
+   "track_count": 9,
+   "album_id": null,
+   "track_ids": [
+    "i9bwq5v1",
+    "bux01hep",
+    "h1wfam35",
+    "4ky7c5v6",
+    "0lruy73h",
+    "lr9g5j03",
+    "1fcz9weg",
+    "zg2hde4i",
+    "bqmr0tu9"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
    "title": "Where The Silence Walks",
    "artists": "PRAANA SHAKTI",
    "release_type": "Single",
    "release_date": "2025-10-01",
-   "cover_url": "https://api.deezer.com/album/816311981/image",
-   "cover_source_url": "https://api.deezer.com/album/816311981/image",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b27347422058ea08bd8da87bc8c2",
+   "cover_source_url": null,
    "spotify_url": null,
-   "songstats_url": null,
-   "songshare_url": null,
+   "songstats_url": "https://songstats.com/track/wlbj96gm",
+   "songshare_url": "https://songshare.com/track/wlbj96gm",
    "track_count": 1,
    "album_id": null,
-   "track_ids": []
+   "track_ids": [
+    "wlbj96gm"
+   ]
   },
   {
-   "label": "Enhanced Recordings",
-   "title": "On My Way",
-   "artists": "anamē",
-   "release_type": "Album",
-   "release_date": "2026-11-20",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b273e30178da0e2bce1f450fdf4e",
-   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b273e30178da0e2bce1f450fdf4e",
+   "label": "Shapes Of Solitude",
+   "title": "The Rooted Ascent",
+   "artists": "Dreamlapse Dimensions",
+   "release_type": "Single",
+   "release_date": "2025-09-17",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273de15808b8891832054503ee5",
+   "cover_source_url": null,
    "spotify_url": null,
-   "songstats_url": "https://songstats.com/track/l4gubqef/true",
-   "songshare_url": "https://songshare.com/track/l4gubqef",
-   "track_count": 8,
-   "album_id": "pgqtkdzm",
+   "songstats_url": "https://songstats.com/track/83hmbluz",
+   "songshare_url": "https://songshare.com/track/83hmbluz",
+   "track_count": 1,
+   "album_id": null,
    "track_ids": [
-    "l4gubqef",
-    "zkw6i72b",
-    "sg3l7moi",
-    "gzwauoxt",
-    "ctj0l5u6",
-    "wprex4i2",
-    "2ax9lw30",
-    "s6v4jyuh"
+    "83hmbluz"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Parthenia Glow",
+   "artists": "OREONIC & Feathervane",
+   "release_type": "Single",
+   "release_date": "2025-09-03",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b27312a65ace0bab2d8a6a76aff6",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/pa6e7cfk",
+   "songshare_url": "https://songshare.com/track/pa6e7cfk",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "pa6e7cfk"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Gravity's Prayer",
+   "artists": "PRAANA SHAKTI",
+   "release_type": "Single",
+   "release_date": "2025-08-20",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b2731a185c13eb708f3e823b45fa",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/2nkt1i68",
+   "songshare_url": "https://songshare.com/track/2nkt1i68",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "2nkt1i68"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Navarana",
+   "artists": "PRAANA SHAKTI",
+   "release_type": "Single",
+   "release_date": "2025-07-23",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273fb8ecfea45ad38607b13d8be",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/cbvxg9f5",
+   "songshare_url": "https://songshare.com/track/cbvxg9f5",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "cbvxg9f5"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Moon Ritual",
+   "artists": "Dreamlapse Dimensions",
+   "release_type": "EP",
+   "release_date": "2025-07-16",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b2730e3ce975c9fbedee0aa0152c",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/g31tmd8q",
+   "songshare_url": "https://songshare.com/track/g31tmd8q",
+   "track_count": 6,
+   "album_id": null,
+   "track_ids": [
+    "g31tmd8q",
+    "7z1vxk0b",
+    "2fval6b0",
+    "vm91sxio",
+    "rvbz3u05",
+    "dsyci30g"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "111 Portal",
+   "artists": "Dreamlapse Dimensions",
+   "release_type": "Single",
+   "release_date": "2025-06-25",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273854b8db4e58ef75706a15113",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/xrzeq104",
+   "songshare_url": "https://songshare.com/track/xrzeq104",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "xrzeq104"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Celestial Voices",
+   "artists": "Maitreya",
+   "release_type": "Single",
+   "release_date": "2025-06-18",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b2736fb7191aa91e14060f3357c5",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/q7nslh2o",
+   "songshare_url": "https://songshare.com/track/q7nslh2o",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "q7nslh2o"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "My Body Is Aligned 174Hz",
+   "artists": "Hohm & inHarmony Media",
+   "release_type": "Album",
+   "release_date": "2025-06-04",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273fb9b8de66a7f70da7d99e4fa",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/8dgn59ab",
+   "songshare_url": "https://songshare.com/track/8dgn59ab",
+   "track_count": 10,
+   "album_id": null,
+   "track_ids": [
+    "8dgn59ab",
+    "rydvzkg4",
+    "ekpitval",
+    "wc7laui2",
+    "i5cuodbz",
+    "sz5y0vue",
+    "8wa50jki",
+    "a7pv2etl",
+    "a4tlvjor",
+    "z4bsh6jm"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Iridae",
+   "artists": "John Grand",
+   "release_type": "Single",
+   "release_date": "2025-05-21",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b2739e5b7fb344477d4e35721e2a",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/7rame0qo",
+   "songshare_url": "https://songshare.com/track/7rame0qo",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "7rame0qo"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Synthesize You",
+   "artists": "Feathervane",
+   "release_type": "Single",
+   "release_date": "2025-05-14",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b27341fe5365df6bc3a593c29ec4",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/svt472bu",
+   "songshare_url": "https://songshare.com/track/svt472bu",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "svt472bu"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Selenos",
+   "artists": "John Grand",
+   "release_type": "Single",
+   "release_date": "2025-04-30",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273e9f6d42498ec70f3f034f320",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/kep7noig",
+   "songshare_url": "https://songshare.com/track/kep7noig",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "kep7noig"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Liminal Fountain",
+   "artists": "PRAANA SHAKTI",
+   "release_type": "Single",
+   "release_date": "2025-04-23",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273fe9d2a3ee14f9dafa36fec6b",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/85q1o6gl",
+   "songshare_url": "https://songshare.com/track/85q1o6gl",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "85q1o6gl"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Resonance",
+   "artists": "Ilyndria",
+   "release_type": "Single",
+   "release_date": "2025-04-02",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273bacac4be2c99ca631cf4c144",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/230gynja",
+   "songshare_url": "https://songshare.com/track/230gynja",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "230gynja"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Fontanelle",
+   "artists": "Maitreya",
+   "release_type": "Single",
+   "release_date": "2025-03-26",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273db6894d59653db42f649c916",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/4wfe97qy",
+   "songshare_url": "https://songshare.com/track/4wfe97qy",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "4wfe97qy"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Interpretations",
+   "artists": "PRAKASHA",
+   "release_type": "Single",
+   "release_date": "2025-03-19",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b27396dcafc079fdc06f3844a4ec",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/chi0tz4y",
+   "songshare_url": "https://songshare.com/track/chi0tz4y",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "chi0tz4y"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Thousand Points Of Light",
+   "artists": "PRAANA SHAKTI",
+   "release_type": "Single",
+   "release_date": "2025-03-12",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273592aa4343ae8ee6fd27fc0fe",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/cw8y9hz3",
+   "songshare_url": "https://songshare.com/track/cw8y9hz3",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "cw8y9hz3"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "ABIA Tune",
+   "artists": "Feathervane",
+   "release_type": "Single",
+   "release_date": "2025-02-26",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273d743d64728ed0e5ad6900876",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/iajkecd4",
+   "songshare_url": "https://songshare.com/track/iajkecd4",
+   "track_count": 2,
+   "album_id": null,
+   "track_ids": [
+    "iajkecd4",
+    "83nj2061"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Harmonic Skies",
+   "artists": "Atlantic Dawn",
+   "release_type": "Single",
+   "release_date": "2025-02-19",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273b3fbe4c582e80c30b9e62579",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/z64h5tp8",
+   "songshare_url": "https://songshare.com/track/z64h5tp8",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "z64h5tp8"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Auric Cleanse 963Hz",
+   "artists": "PRAANA SHAKTI",
+   "release_type": "Single",
+   "release_date": "2025-02-05",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b2735f6348e2718afac02dd7645e",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/plco40jt",
+   "songshare_url": "https://songshare.com/track/plco40jt",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "plco40jt"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Binaural Ice",
+   "artists": "Lotus Moon",
+   "release_type": "Single",
+   "release_date": "2025-01-22",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b2738f2dafca109fd823216e5d4b",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/ed729wqa",
+   "songshare_url": "https://songshare.com/track/ed729wqa",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "ed729wqa"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Of Human Nature",
+   "artists": "PRAANA SHAKTI",
+   "release_type": "Single",
+   "release_date": "2024-12-04",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273cdfda25d7c3dbad3f8da7ce0",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/2o0fdvtu",
+   "songshare_url": "https://songshare.com/track/2o0fdvtu",
+   "track_count": 2,
+   "album_id": null,
+   "track_ids": [
+    "2o0fdvtu",
+    "q76iktpm"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "The Great Calm Sea",
+   "artists": "Lotus Moon",
+   "release_type": "Single",
+   "release_date": "2024-11-20",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b27396ecb73dedc9be0dae8633c0",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/7kqjf9bi",
+   "songshare_url": "https://songshare.com/track/7kqjf9bi",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "7kqjf9bi"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Samyama",
+   "artists": "Maitreya",
+   "release_type": "Single",
+   "release_date": "2024-10-30",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273b13873dcfbc913a57dc78226",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/pu2db61m",
+   "songshare_url": "https://songshare.com/track/pu2db61m",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "pu2db61m"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Beyond Your Mind",
+   "artists": "Lotus Moon",
+   "release_type": "Single",
+   "release_date": "2024-10-16",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273c0dcbb9f137fc53e7aca87dc",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/90jsvgbm",
+   "songshare_url": "https://songshare.com/track/90jsvgbm",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "90jsvgbm"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Nine Steps",
+   "artists": "PRAANA SHAKTI & Moonfound",
+   "release_type": "Single",
+   "release_date": "2024-10-02",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273cc524edde803c6bdbb487137",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/7uslr3ix",
+   "songshare_url": "https://songshare.com/track/7uslr3ix",
+   "track_count": 2,
+   "album_id": null,
+   "track_ids": [
+    "7uslr3ix",
+    "kswbnycf"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Far Horizons",
+   "artists": "Lotus Moon",
+   "release_type": "Single",
+   "release_date": "2024-08-21",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273b4f836fe55794861da044e8a",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/6w0oe4z2",
+   "songshare_url": "https://songshare.com/track/6w0oe4z2",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "6w0oe4z2"
+   ]
+  },
+  {
+   "label": "Shapes Of Solitude",
+   "title": "Hiranyagarbha",
+   "artists": "PRAANA SHAKTI",
+   "release_type": "Single",
+   "release_date": "2024-08-07",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273ebf9b109308c83e191d58bd6",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/0itbjv43",
+   "songshare_url": "https://songshare.com/track/0itbjv43",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "0itbjv43"
    ]
   }
  ]
