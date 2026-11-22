@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-21T01:00:00+00:00",
- "today": "2026-11-21",
+ "generated_at": "2026-11-22T00:39:08+00:00",
+ "today": "2026-11-22",
  "labels": [
   "Enhanced Recordings",
   "Enhanced Progressive",
@@ -811,22 +811,24 @@
   },
   {
    "label": "Colorize",
-   "title": "Echoes",
+   "title": "Time",
    "artists": "Jack Willard",
-   "release_type": "Album",
+   "release_type": "EP",
    "release_date": "2026-10-02",
    "cover_url": "https://i.scdn.co/image/ab67616d0000b273e5d8ca6cb911f20e307de665",
    "cover_source_url": "https://i.scdn.co/image/ab67616d0000b273e5d8ca6cb911f20e307de665",
    "spotify_url": null,
    "songstats_url": "https://songstats.com/track/6i05rf4h/time",
    "songshare_url": "https://songshare.com/track/6i05rf4h",
-   "track_count": 11,
+   "track_count": 6,
    "album_id": null,
    "track_ids": [
     "6i05rf4h",
     "f7ius8w9",
     "jhuz3pwa",
-    "ixfm63cl"
+    "ixfm63cl",
+    "j826hqe3",
+    "31d9bsag"
    ]
   },
   {
@@ -1160,23 +1162,6 @@
    "album_id": null,
    "track_ids": [
     "vpqrgi47"
-   ]
-  },
-  {
-   "label": "Enhanced Recordings",
-   "title": "Follow You (FYH514)",
-   "artists": "Morgin Madison & HILYTE",
-   "release_type": "Single",
-   "release_date": "2026-09-11",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b273e7f36acd3ae76bc8d8a1fc89",
-   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b273e7f36acd3ae76bc8d8a1fc89",
-   "spotify_url": null,
-   "songstats_url": "https://songstats.com/track/ea9ridxf/follow-you-fyh514",
-   "songshare_url": "https://songshare.com/track/ea9ridxf",
-   "track_count": 1,
-   "album_id": null,
-   "track_ids": [
-    "ea9ridxf"
    ]
   },
   {
@@ -1844,23 +1829,6 @@
    ]
   },
   {
-   "label": "Enhanced Progressive",
-   "title": "Believe (ABGT687)",
-   "artists": "Nitrous Oxide & Dan Stone",
-   "release_type": "Single",
-   "release_date": "2026-07-17",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b273ccbea481ca682a90aa680e82",
-   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b273ccbea481ca682a90aa680e82",
-   "spotify_url": null,
-   "songstats_url": "https://songstats.com/track/0k7n5wzx/believe-abgt687",
-   "songshare_url": "https://songshare.com/track/0k7n5wzx",
-   "track_count": 1,
-   "album_id": null,
-   "track_ids": [
-    "0k7n5wzx"
-   ]
-  },
-  {
    "label": "Enhanced Chill",
    "title": "Faces",
    "artists": "w.ill & Rustborne",
@@ -2402,23 +2370,6 @@
    "album_id": null,
    "track_ids": [
     "d7w1vcrh"
-   ]
-  },
-  {
-   "label": "Enhanced Progressive",
-   "title": "In My Soul (FYH495)",
-   "artists": "Omnia & Gabriel Eli",
-   "release_type": "Single",
-   "release_date": "2026-05-15",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b27303878d2b6be31a01a06c7526",
-   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b27303878d2b6be31a01a06c7526",
-   "spotify_url": null,
-   "songstats_url": "https://songstats.com/track/fbw6tn1q/in-my-soul-fyh495",
-   "songshare_url": "https://songshare.com/track/fbw6tn1q",
-   "track_count": 1,
-   "album_id": null,
-   "track_ids": [
-    "fbw6tn1q"
    ]
   },
   {
