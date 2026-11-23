@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-23T00:38:56+00:00",
+ "generated_at": "2026-11-23T06:39:40+00:00",
  "today": "2026-11-23",
  "labels": [
   "Enhanced Recordings",
@@ -9,6 +9,30 @@
   "Shapes Of Solitude"
  ],
  "releases": [
+  {
+   "label": "Enhanced Recordings",
+   "title": "On My Way",
+   "artists": "anamē",
+   "release_type": "Album",
+   "release_date": "2026-11-20",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273e30178da0e2bce1f450fdf4e",
+   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b273e30178da0e2bce1f450fdf4e",
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/l4gubqef/true",
+   "songshare_url": "https://songshare.com/track/l4gubqef",
+   "track_count": 8,
+   "album_id": "pgqtkdzm",
+   "track_ids": [
+    "l4gubqef",
+    "zkw6i72b",
+    "sg3l7moi",
+    "gzwauoxt",
+    "ctj0l5u6",
+    "wprex4i2",
+    "2ax9lw30",
+    "s6v4jyuh"
+   ]
+  },
   {
    "label": "Enhanced Progressive",
    "title": "Thoughts Of You",
@@ -41,30 +65,6 @@
    "album_id": null,
    "track_ids": [
     "vq7n1jpt"
-   ]
-  },
-  {
-   "label": "Enhanced Recordings",
-   "title": "On My Way",
-   "artists": "anamē",
-   "release_type": "Album",
-   "release_date": "2026-11-20",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b273e30178da0e2bce1f450fdf4e",
-   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b273e30178da0e2bce1f450fdf4e",
-   "spotify_url": null,
-   "songstats_url": "https://songstats.com/track/l4gubqef/true",
-   "songshare_url": "https://songshare.com/track/l4gubqef",
-   "track_count": 8,
-   "album_id": "pgqtkdzm",
-   "track_ids": [
-    "l4gubqef",
-    "zkw6i72b",
-    "sg3l7moi",
-    "gzwauoxt",
-    "ctj0l5u6",
-    "wprex4i2",
-    "2ax9lw30",
-    "s6v4jyuh"
    ]
   },
   {
@@ -1812,6 +1812,21 @@
    ]
   },
   {
+   "label": "Shapes Of Solitude",
+   "title": "Sense Of Absence",
+   "artists": "Sizmara & Feathervane",
+   "release_type": "Single",
+   "release_date": "2026-07-22",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273769363896a255a1893d1e026",
+   "cover_source_url": null,
+   "spotify_url": null,
+   "songstats_url": null,
+   "songshare_url": null,
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": []
+  },
+  {
    "label": "Enhanced Recordings",
    "title": "Healing",
    "artists": "Kindrid, Linney & Morgin Madison",
@@ -3205,23 +3220,6 @@
    "track_ids": [
     "iajkecd4",
     "83nj2061"
-   ]
-  },
-  {
-   "label": "Shapes Of Solitude",
-   "title": "Harmonic Skies",
-   "artists": "Atlantic Dawn",
-   "release_type": "Single",
-   "release_date": "2025-02-19",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b273b3fbe4c582e80c30b9e62579",
-   "cover_source_url": null,
-   "spotify_url": null,
-   "songstats_url": "https://songstats.com/track/z64h5tp8",
-   "songshare_url": "https://songshare.com/track/z64h5tp8",
-   "track_count": 1,
-   "album_id": null,
-   "track_ids": [
-    "z64h5tp8"
    ]
   }
  ]
