@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-25T01:00:00+00:00",
+ "generated_at": "2026-11-25T06:40:00+00:00",
  "today": "2026-11-25",
  "labels": [
   "Enhanced Recordings",
@@ -9,6 +9,23 @@
   "Shapes Of Solitude"
  ],
  "releases": [
+  {
+   "label": "Colorize",
+   "title": "Make Believe",
+   "artists": "Guy Didden",
+   "release_type": "Single",
+   "release_date": "2026-11-25",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b2733634fd53c1b73f085f293bdc",
+   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b2733634fd53c1b73f085f293bdc",
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/e3nfhidg/make-believe",
+   "songshare_url": "https://songshare.com/track/e3nfhidg",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "e3nfhidg"
+   ]
+  },
   {
    "label": "Enhanced Recordings",
    "title": "On My Way",
