@@ -1,6 +1,6 @@
 {
- "generated_at": "2026-11-26T12:39:00+00:00",
- "today": "2026-11-26",
+ "generated_at": "2026-11-27T01:40:00+00:00",
+ "today": "2026-11-27",
  "labels": [
   "Enhanced Recordings",
   "Enhanced Progressive",
@@ -9,6 +9,23 @@
   "Shapes Of Solitude"
  ],
  "releases": [
+  {
+   "label": "Colorize",
+   "title": "Hide",
+   "artists": "L.GU. & JOSEFINA",
+   "release_type": "Single",
+   "release_date": "2026-11-27",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b273450a3a98ef52e2915b3d876f",
+   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b273450a3a98ef52e2915b3d876f",
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/twcdemg8/hide",
+   "songshare_url": "https://songshare.com/track/twcdemg8",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "twcdemg8"
+   ]
+  },
   {
    "label": "Colorize",
    "title": "Make Believe",
