@@ -1,5 +1,5 @@
 {
- "generated_at": "2026-11-27T01:40:00+00:00",
+ "generated_at": "2026-11-27T06:42:35+00:00",
  "today": "2026-11-27",
  "labels": [
   "Enhanced Recordings",
@@ -9,6 +9,57 @@
   "Shapes Of Solitude"
  ],
  "releases": [
+  {
+   "label": "Enhanced Progressive",
+   "title": "Never Give Up",
+   "artists": "Kingi",
+   "release_type": "Single",
+   "release_date": "2026-11-27",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b2730a4ff09138c8daea269b80b5",
+   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b2730a4ff09138c8daea269b80b5",
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/eabndzix/never-give-up",
+   "songshare_url": "https://songshare.com/track/eabndzix",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "eabndzix"
+   ]
+  },
+  {
+   "label": "Enhanced Progressive",
+   "title": "Still Mine",
+   "artists": "Villa Savoye & TRANSIT",
+   "release_type": "Single",
+   "release_date": "2026-11-27",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b27330a46438f00a5f31e8aac478",
+   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b27330a46438f00a5f31e8aac478",
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/dnq9pu0v/still-mine",
+   "songshare_url": "https://songshare.com/track/dnq9pu0v",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "dnq9pu0v"
+   ]
+  },
+  {
+   "label": "Enhanced Progressive",
+   "title": "Tonight",
+   "artists": "LEFRIX",
+   "release_type": "Single",
+   "release_date": "2026-11-27",
+   "cover_url": "https://i.scdn.co/image/ab67616d0000b27330a46438f00a5f31e8aac478",
+   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b27330a46438f00a5f31e8aac478",
+   "spotify_url": null,
+   "songstats_url": "https://songstats.com/track/e2aog7ji/tonight",
+   "songshare_url": "https://songshare.com/track/e2aog7ji",
+   "track_count": 1,
+   "album_id": null,
+   "track_ids": [
+    "e2aog7ji"
+   ]
+  },
   {
    "label": "Colorize",
    "title": "Hide",
@@ -2779,23 +2830,6 @@
    "album_id": null,
    "track_ids": [
     "q1rgf5mt"
-   ]
-  },
-  {
-   "label": "Enhanced Progressive",
-   "title": "Vanta",
-   "artists": "Nitrous Oxide",
-   "release_type": "Single",
-   "release_date": "2026-02-20",
-   "cover_url": "https://i.scdn.co/image/ab67616d0000b273ed23f692e2714ad55e6117fb",
-   "cover_source_url": "https://i.scdn.co/image/ab67616d0000b273ed23f692e2714ad55e6117fb",
-   "spotify_url": null,
-   "songstats_url": "https://songstats.com/track/317zlt2y/vanta",
-   "songshare_url": "https://songshare.com/track/317zlt2y",
-   "track_count": 1,
-   "album_id": null,
-   "track_ids": [
-    "317zlt2y"
    ]
   },
   {
